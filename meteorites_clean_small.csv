@@ -1,0 +1,1001 @@
+name,id,name_type,class,mass,fall,year,lat,long,geolocation,countrycode,countryname,continent,sub-region,intermediate-region
+Grove Mountains 051901,50328,Valid,L6,8.2,Found,2006,-72.7818,75.3187,"(-72.7818, 75.3187)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Allan Hills 85133,998,Valid,H5,90.6,Found,1985,-77.04626,157.09876,"(-77.04626, 157.09876)",AQ,Antarctica,Antarctica,,
+Yamato 793036,28385,Valid,E3,1.2,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 020052,46643,Valid,H5,12.1,Found,2003,-73.01722,75.25556,"(-73.01722, 75.25556)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 99628,22074,Valid,LL5,9.5,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 87189,2546,Valid,H5,57.29,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 023899,50201,Valid,L5,0.46,Found,2003,-72.9822,75.2489,"(-72.9822, 75.2489)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dhofar 1002,6802,Valid,L6,61.82,Found,2001,18.55905,54.09825,"(18.55905, 54.09825)",OM,Oman,Asia,Western Asia,
+Grove Mountains 021609,47824,Valid,H4,3.26,Found,2003,-72.9775,75.216944,"(-72.9775, 75.216944)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dhofar 1015,6816,Valid,EH4,63.53,Found,2002,18.559070000000002,54.081619999999994,"(18.55907, 54.08162)",OM,Oman,Asia,Western Asia,
+Acfer 194,202,Valid,H5,361.0,Found,1991,27.499440000000003,3.6888900000000002,"(27.49944, 3.68889)",DZ,Algeria,Africa,Northern Africa,
+Acfer 115,124,Valid,H6,287.0,Found,1990,27.73333,4.16667,"(27.73333, 4.16667)",DZ,Algeria,Africa,Northern Africa,
+Meteorite Hills 01088,16321,Valid,"Iron, IIIAB",5.8,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88609,14347,Valid,H5,7.0,Found,1988,-84.26849,161.42488,"(-84.26849, 161.42488)",AQ,Antarctica,Antarctica,,
+Grove Mountains 020095,46524,Valid,L6,6.05,Found,2003,-72.99528000000002,75.20666999999997,"(-72.99528, 75.20667)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Ramlat as Sahmah 239,35671,Valid,L5,120.08,Found,2005,20.59518,56.1551,"(20.59518, 56.1551)",OM,Oman,Asia,Western Asia,
+Grove Mountains 050129,46426,Valid,H6,18.88,Found,2006,-72.98306,75.25778000000003,"(-72.98306, 75.25778)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Asuka 881584,4293,Valid,LL6,11.32,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 021701,47844,Valid,L6,1.02,Found,2003,-72.773333,75.349722,"(-72.773333, 75.349722)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dhofar 049,6748,Valid,L4/5,2164.0,Found,1999,19.176,54.845330000000004,"(19.176, 54.84533)",OM,Oman,Asia,Western Asia,
+Yamato 790628,25977,Valid,LL,7.54,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 051882,50322,Valid,L6,20.71,Found,2006,-72.77972,75.32778,"(-72.77972, 75.32778)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 75131,25172,Valid,L6,106.1,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97868,21322,Valid,LL5,4.7,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 90234,10622,Valid,L6,23.47,Found,1990,-72.95564,160.44117,"(-72.95564, 160.44117)",AQ,Antarctica,Antarctica,,
+Grove Mountains 020115,46532,Valid,L6,8.34,Found,2003,-72.97861,75.26611,"(-72.97861, 75.26611)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 794063,29017,Valid,H4,32.79,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 01048,16281,Valid,L5,198.6,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Northwest Africa 045,17055,Valid,H5,52.0,Found,1999,27.16667,-9.5,"(27.16667, -9.5)",DZ,Algeria,Africa,Northern Africa,
+Ssyromolotovo,23694,Valid,"Iron, IIIAB",217000.0,Found,1873,58.61666999999999,98.93333,"(58.61667, 98.93333)",RU,Russia,Europe,Eastern Europe,
+Queen Alexandra Range 99204,21655,Valid,LL5,26.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Duchesne,7737,Valid,"Iron, IVA",22700.0,Found,1906,40.38333,-110.86667,"(40.38333, -110.86667)",US,United States,Americas,Northern America,
+Allan Hills A77256,1567,Valid,Diogenite,676.2,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88376,14125,Valid,LL6,7.9,Found,1988,-84.23754,161.46153999999999,"(-84.23754, 161.46154)",AQ,Antarctica,Antarctica,,
+Grosvenor Mountains 95651,11377,Valid,H6,93.5,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Lawrence,12744,Valid,L6,515.0,Found,1928,38.96667,-95.16667,"(38.96667, -95.16667)",US,United States,Americas,Northern America,
+Sayh al Uhaymir 543,55558,Valid,L5/6,3404.0,Found,2011,20.51182,57.28693000000001,"(20.51182, 57.28693)",OM,Oman,Asia,Western Asia,
+Lewis Cliff 88743,14480,Valid,H6,42.7,Found,1988,-84.27905,161.37169,"(-84.27905, 161.37169)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88002,13757,Valid,CM2,7.2,Found,1988,-84.2804,161.36848999999995,"(-84.2804, 161.36849)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 92156,9557,Valid,CR2,0.4,Found,1992,-76.01295,155.83948999999996,"(-76.01295, 155.83949)",AQ,Antarctica,Antarctica,,
+Grove Mountains 022834,50082,Valid,H4,0.65,Found,2003,-72.77360999999998,75.33917,"(-72.77361, 75.33917)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 97916,21370,Valid,LL5,18.0,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86234,13168,Valid,H5,14.3,Found,1986,-84.2739,161.68743999999995,"(-84.2739, 161.68744)",AQ,Antarctica,Antarctica,,
+Floydada (b),10115,Valid,H5,6266.0,Found,1999,33.98333,-101.33333,"(33.98333, -101.33333)",US,United States,Americas,Northern America,
+Lewis Cliff 88007,13761,Valid,Eucrite-pmict,8.4,Found,1988,-84.27591,161.41072,"(-84.27591, 161.41072)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97468,20924,Valid,LL5,8.4,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99897,22341,Valid,LL5,8.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 01015,54706,Valid,H4,4.4,Found,2002,-85.68692,-68.9515,"(-85.68692, -68.9515)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Yamato 790102,25451,Valid,H4,0.89,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Binneringie,55546,Valid,H5,9056.0,Found,1946,-31.4875,122.12388999999999,"(-31.4875, 122.12389)",AU,Australia,Oceania,Australia and New Zealand,
+Queen Alexandra Range 99370,21819,Valid,LL5,4.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Cuddeback Dry Lake 006,5485,Valid,H6,0.5,Found,2000,35.31227,-117.45299999999999,"(35.31227, -117.453)",US,United States,Americas,Northern America,
+Lewis Cliff 88738,14475,Valid,H6,3.9,Found,1988,-84.23132,161.47583999999995,"(-84.23132, 161.47584)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86019,12959,Valid,L6,432.4,Found,1986,-84.27646999999997,161.65025,"(-84.27647, 161.65025)",AQ,Antarctica,Antarctica,,
+Yamato 791098,26447,Valid,H4,20.25,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99702,22148,Valid,LL5,1.6,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Dar al Gani 887,6434,Valid,H5/6,156.0,Found,2000,27.15,16.1,"(27.15, 16.1)",LY,Libya,Africa,Northern Africa,
+Shahdad,52642,Valid,H5,1074.0,Found,2005,30.553829999999998,57.784169999999996,"(30.55383, 57.78417)",IR,Iran,Asia,Southern Asia,
+Dhofar 1579,52051,Valid,L6,314.3,Found,2009,19.295279999999998,54.89278,"(19.29528, 54.89278)",OM,Oman,Asia,Western Asia,
+Ksar Ghilane 006,54557,Valid,H4,26.0,Found,2011,32.80628,9.83767,"(32.80628, 9.83767)",TN,Tunisia,Africa,Northern Africa,
+Yamato 74190,24568,Valid,L6,3235.7,Found,1974,-71.83055999999998,35.44444,"(-71.83056, 35.44444)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 82113,489,Valid,H6,61.2,Found,1982,-76.97126,156.90291000000005,"(-76.97126, 156.90291)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88659,14396,Valid,L6,10.8,Found,1988,-84.26703,161.41912,"(-84.26703, 161.41912)",AQ,Antarctica,Antarctica,,
+Allan Hills A77056,1370,Valid,H4,12.3,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Asuka 880766,3475,Valid,H4,25.24,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 090719,57385,Valid,L6,165.73,Found,2010,-72.77886,75.31447,"(-72.77886, 75.31447)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Elephant Moraine 92071,9473,Valid,H5,4.4,Found,1992,-76.09148,155.99633,"(-76.09148, 155.99633)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99837,22282,Valid,LL5,3.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 81035,29096,Valid,H6,3.73,Found,1981,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 74284,24662,Valid,H5,2.55,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 88042,1086,Valid,H5,22.6,Found,1988,-76.69471,159.28726,"(-76.69471, 159.28726)",AQ,Antarctica,Antarctica,,
+Asuka 880746,3455,Valid,H3.8,239.71,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792563,27912,Valid,H4/5,8.46,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 99024,11421,Valid,L5,0.85,Found,2000,-73.08333,75.2,"(-73.08333, 75.2)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 793460,28809,Valid,H4,7.62,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Cuddeback Dry Lake 010,5489,Valid,L5,10.5,Found,2000,35.3112,-117.45465,"(35.3112, -117.45465)",US,United States,Americas,Northern America,
+Meteorite Hills 001012,15508,Valid,CM2,7.1,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Verkhne Udinsk,24166,Valid,"Iron, IIIAB",18000.0,Found,1854,54.76667,113.98333000000001,"(54.76667, 113.98333)",RU,Russia,Europe,Eastern Europe,
+Lewis Cliff 85398,12867,Valid,H4,37.9,Found,1985,-84.28096,161.3695,"(-84.28096, 161.3695)",AQ,Antarctica,Antarctica,,
+Asuka 880661,3370,Valid,H4,128.91,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A81039,1999,Valid,H5,205.9,Found,1981,-76.69333,159.18333,"(-76.69333, 159.18333)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 83403,8038,Valid,H5,11.7,Found,1983,-76.30195,157.27277,"(-76.30195, 157.27277)",AQ,Antarctica,Antarctica,,
+Yamato 794028,28982,Valid,H6,13.81,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 00513,15748,Valid,L5,148.29,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91217,18508,Valid,L6,155.4,Found,1991,-85.68496999999998,-68.76222,"(-85.68497, -68.76222)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Grove Mountains 022926,48042,Valid,H6,3.47,Found,2003,-72.774722,75.324167,"(-72.774722, 75.324167)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Meteorite Hills 001117,15613,Valid,H5,18.7,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Allan Hills A81126,2086,Valid,H5,21.5,Found,1981,-76.6875,159.35805,"(-76.6875, 159.35805)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97265,20723,Valid,LL5,15.5,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90781,9190,Valid,L6,5.8,Found,1990,-76.2829,156.46722,"(-76.2829, 156.46722)",AQ,Antarctica,Antarctica,,
+Yamato 74051,24429,Valid,H4,20.93,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 94388,20021,Valid,L5,2.9,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 050021,46413,Valid,H5,2.88,Found,2006,-73.07611,75.26,"(-73.07611, 75.26)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 99639,22085,Valid,LL5,3.8,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 020128,46693,Valid,H5,11.7,Found,2003,-72.98139,75.26389,"(-72.98139, 75.26389)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Pecora Escarpment 91258,18549,Valid,EH3,10.4,Found,1991,-85.66348,-68.37096,"(-85.66348, -68.37096)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Tanezrouft 076,31337,Valid,L6,3548.0,Found,2003,24.6205,-0.5617,"(24.6205, -0.5617)",DZ,Algeria,Africa,Northern Africa,
+Queen Alexandra Range 99745,22191,Valid,LL5,1.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 881169,3878,Valid,H4,24.92,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 02157,18970,Valid,LL5,7.8,Found,2002,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 74660,25038,Valid,LL3.0,27.2,Found,1974,-71.79722,36.15278,"(-71.79722, 36.15278)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90030,8440,Valid,L6,75.3,Found,1990,-76.27504,156.42619,"(-76.27504, 156.42619)",AQ,Antarctica,Antarctica,,
+Acfer 076,85,Valid,H5,183.0,Found,1990,27.7,4.35,"(27.7, 4.35)",DZ,Algeria,Africa,Northern Africa,
+Dhofar 132,6917,Valid,Ureilite,5010.0,Found,2000,19.15,54.58067,"(19.15, 54.58067)",OM,Oman,Asia,Western Asia,
+Dhofar 025,6724,Valid,Lunar (anorth),751.0,Found,2000,18.40333,54.151669999999996,"(18.40333, 54.15167)",OM,Oman,Asia,Western Asia,
+Yamato 791618,26967,Valid,H5,6.7,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97901,21355,Valid,H6,10.4,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 75256,25297,Valid,L6,0.18,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grosvenor Mountains 95586,11314,Valid,H5,92.8,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Yamato 793571,28920,Valid,L3.6,25.95,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792649,27998,Valid,H4/5,2.73,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 022407,47971,Valid,L6,25.99,Found,2003,-72.77305600000003,75.350833,"(-72.773056, 75.350833)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Cedartown,5304,Valid,"Iron, IIAB",11300.0,Found,1898,34.01667,-85.26666999999998,"(34.01667, -85.26667)",US,United States,Americas,Northern America,
+Queen Alexandra Range 90284,19088,Valid,L5,85.7,Found,1990,-84.58355999999998,162.77051,"(-84.58356, 162.77051)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 92024,9426,Valid,LL6,15.4,Found,1992,-76.08256999999998,156.01928,"(-76.08257, 156.01928)",AQ,Antarctica,Antarctica,,
+Yamato 791545,26894,Valid,L4,195.17,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 75286,25327,Valid,H4,1.72,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97880,21334,Valid,LL5,5.7,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87244,13705,Valid,L6,35.6,Found,1987,-84.35382,161.42945,"(-84.35382, 161.42945)",AQ,Antarctica,Antarctica,,
+Dar al Gani 410,5958,Valid,H5,605.0,Found,1998,27.3725,16.240170000000006,"(27.3725, 16.24017)",LY,Libya,Africa,Northern Africa,
+Reckling Peak 92409,22418,Valid,L6,72.2,Found,1992,-76.2201,158.37606,"(-76.2201, 158.37606)",AQ,Antarctica,Antarctica,,
+Asuka 881882,4591,Valid,H4,32.59,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 021681,47837,Valid,L6,9.72,Found,2003,-72.77583299999998,75.330556,"(-72.775833, 75.330556)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Grosvenor Mountains 85215,11224,Valid,L5,35.2,Found,1985,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 90140,10533,Valid,H6,1.28,Found,1990,-72.95555999999998,160.46441000000004,"(-72.95556, 160.46441)",AQ,Antarctica,Antarctica,,
+Yamato 74112,24490,Valid,H5,45.52,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 400,7182,Valid,L5,492.0,Found,2001,19.28818,54.5391,"(19.28818, 54.5391)",OM,Oman,Asia,Western Asia,
+El Mirage Dry Lake 003,53845,Valid,H6,6.9,Found,2010,34.63432,-117.56217,"(34.63432, -117.56217)",US,United States,Americas,Northern America,
+MacAlpine Hills 02487,14797,Valid,H5,17.56,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99095,21547,Valid,L5,525.9,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86476,13406,Valid,H5,0.6,Found,1986,-84.27412,161.67838,"(-84.27412, 161.67838)",AQ,Antarctica,Antarctica,,
+Grove Mountains 052175,46476,Valid,L6,4.37,Found,2006,-72.77306,75.33806,"(-72.77306, 75.33806)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dar al Gani 074,5590,Valid,H5/6,86.0,Found,1995,27.16033,16.03533,"(27.16033, 16.03533)",LY,Libya,Africa,Northern Africa,
+Lucerne Valley 096,52528,Valid,L5,7.3,Found,2008,34.48662,-116.9564,"(34.48662, -116.9564)",US,United States,Americas,Northern America,
+Elephant Moraine 87565,8115,Valid,H6,343.7,Found,1987,-76.26614000000002,157.05846,"(-76.26614, 157.05846)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88345,14096,Valid,H5,19.1,Found,1988,-84.28941,161.33649,"(-84.28941, 161.33649)",AQ,Antarctica,Antarctica,,
+Dar al Gani 866,6413,Valid,L5,261.0,Found,1999,27.25,16.133329999999994,"(27.25, 16.13333)",LY,Libya,Africa,Northern Africa,
+Pecora Escarpment 91126,18417,Valid,L4,30.8,Found,1991,-85.68392,-67.74303,"(-85.68392, -67.74303)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 99562,22008,Valid,LL5,4.2,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94621,20252,Valid,L5,47.2,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99249,21700,Valid,LL5,1.77,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 84194,796,Valid,H5,3.9,Found,1984,-76.72364,159.41487,"(-76.72364, 159.41487)",AQ,Antarctica,Antarctica,,
+Dar al Gani 085,5601,Valid,L3-4,153.0,Found,1995,27.04617,16.37217,"(27.04617, 16.37217)",LY,Libya,Africa,Northern Africa,
+Loongana 003,14701,Valid,L5,58.0,Found,1990,-30.535829999999997,127.33967,"(-30.53583, 127.33967)",AU,Australia,Oceania,Australia and New Zealand,
+Grove Mountains 021547,30702,Valid,L5,19.6,Found,2003,-72.96389,75.22222,"(-72.96389, 75.22222)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dhofar 315,7098,Valid,H5,411.25,Found,2001,19.35333,54.825,"(19.35333, 54.825)",OM,Oman,Asia,Western Asia,
+Grove Mountains 053047,48401,Valid,H5,0.82,Found,2006,-72.773333,75.348333,"(-72.773333, 75.348333)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Los Vientos 019,57303,Valid,H4,263.0,Found,2010,-24.683329999999998,-69.76666999999999,"(-24.68333, -69.76667)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Ramlat as Sahmah 357,55646,Valid,L6,2781.2,Found,2010,20.431820000000002,55.53323,"(20.43182, 55.53323)",OM,Oman,Asia,Western Asia,
+Pecora Escarpment 02042,18224,Valid,LL6,14.44,Found,2002,-85.63333,-68.7,"(-85.63333, -68.7)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Allan Hills A81315,2273,Valid,Acapulcoite,2.5,Found,1981,-76.68861,159.36889,"(-76.68861, 159.36889)",AQ,Antarctica,Antarctica,,
+Allan Hills 84050,652,Valid,CM2,3.2,Found,1984,-77.01641,156.97949,"(-77.01641, 156.97949)",AQ,Antarctica,Antarctica,,
+Allan Hills A78041,1657,Valid,L3.4,117.5,Found,1978,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91273,18564,Valid,H5,2.6,Found,1991,-85.69012,-69.09783,"(-85.69012, -69.09783)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Balfour Downs,4927,Valid,"Iron, IAB-sLL",2400.0,Found,1962,-22.75,120.83333,"(-22.75, 120.83333)",AU,Australia,Oceania,Australia and New Zealand,
+LaPaz Icefield 02420,12687,Valid,LL5,15.1,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Asuka 881484,4193,Valid,L3.6,31.85,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+LaPaz Icefield 02278,12545,Valid,H5,3.44,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 97277,20735,Valid,LL5,22.0,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 264,35581,Valid,H4-5,419.8,Found,2005,19.98065,56.46865,"(19.98065, 56.46865)",OM,Oman,Asia,Western Asia,
+Yamato 791881,27230,Valid,H5,6.81,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 109,6894,Valid,L6,2209.0,Found,2000,18.7385,54.47817,"(18.7385, 54.47817)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 97730,21186,Valid,LL5,55.7,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 75042,25083,Valid,L6,0.27,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97484,20940,Valid,LL5,0.5,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 75011,25052,Valid,Eucrite-pmict,121.5,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 021954,47888,Valid,L6,4.57,Found,2003,-72.77305600000003,75.34222199999998,"(-72.773056, 75.342222)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Meteorite Hills 00408,15643,Valid,"Iron, IIIAB",18.1,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Yamato 86735,30241,Valid,L6,1.82,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Jiddat al Harasis 064,12126,Valid,L6,1140.0,Found,2000,19.636229999999998,55.64393000000001,"(19.63623, 55.64393)",OM,Oman,Asia,Western Asia,
+Ella Island,10018,Valid,L6,7500.0,Found,1971,72.88333,-25.11667000000001,"(72.88333, -25.11667)",IS,Iceland,Europe,Northern Europe,
+Kalugalatenna,12235,Valid,L6,4000.0,Found,2003,7.3166699999999985,80.55,"(7.31667, 80.55)",LK,Sri Lanka,Asia,Southern Asia,
+Queen Alexandra Range 94416,20049,Valid,L5,91.1,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 881331,4040,Valid,H4,32.854,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Jiddat al Harasis 499,50916,Valid,L6,606.4,Found,2007,19.77988,56.413419999999995,"(19.77988, 56.41342)",OM,Oman,Asia,Western Asia,
+Allan Hills 84015,618,Valid,Aubrite,263.9,Found,1984,-76.88495,158.60279,"(-76.88495, 158.60279)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87158,13625,Valid,L6,28.9,Found,1987,-84.36508,161.37478000000004,"(-84.36508, 161.37478)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 87673,8223,Valid,L6,3.8,Found,1987,-76.28339,156.43525,"(-76.28339, 156.43525)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99765,22211,Valid,LL5,5.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 793245,28594,Valid,L6,9.11,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791748,27097,Valid,CO3,8.33,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Jiddat al Harasis 390,51656,Valid,H~6,159.2,Found,2003,19.2743,55.757130000000004,"(19.2743, 55.75713)",OM,Oman,Asia,Western Asia,
+Asuka 881403,4112,Valid,Eucrite,12.69,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 020210,49721,Valid,H4,31.2,Found,2003,-72.9925,75.20639,"(-72.9925, 75.20639)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 792524,27873,Valid,H4,126.03,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 83310,7950,Valid,H6,64.2,Found,1983,-76.28806,157.23611,"(-76.28806, 157.23611)",AQ,Antarctica,Antarctica,,
+Dar al Gani 989,6529,Valid,LL6,764.0,Found,2002,27.1125,16.331670000000006,"(27.1125, 16.33167)",LY,Libya,Africa,Northern Africa,
+Queen Alexandra Range 97045,20452,Valid,LL5,122.5,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 791953,27302,Valid,L6,2.17,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77273,1584,Valid,L6,492.0,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90454,8863,Valid,L6,212.9,Found,1990,-76.28433000000003,156.46066000000005,"(-76.28433, 156.46066)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97292,20750,Valid,H5,104.0,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 881067,3776,Valid,L6,627.34,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Gorlovka,10949,Valid,H3.7,3618.0,Fell,1974,48.28333,38.08333,"(48.28333, 38.08333)",UA,Ukraine,Europe,Eastern Europe,
+Allan Hills A81117,2077,Valid,H4,32.9,Found,1981,-76.69917,159.39639,"(-76.69917, 159.39639)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 90236,10624,Valid,H5,165.7,Found,1990,-72.95645,160.44392,"(-72.95645, 160.44392)",AQ,Antarctica,Antarctica,,
+Asuka 881243,3952,Valid,H5,124.18,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90593,9002,Valid,L6,31.9,Found,1990,-76.28599,156.43596000000005,"(-76.28599, 156.43596)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91275,18566,Valid,L5,19.5,Found,1991,-85.68101999999998,-68.76888000000001,"(-85.68102, -68.76888)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 93024,19113,Valid,H5,708.2,Found,1993,-84.62928000000002,162.50537,"(-84.62928, 162.50537)",AQ,Antarctica,Antarctica,,
+Yamato 86074,29580,Valid,H4,22.99,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 88082,13836,Valid,L6,27.2,Found,1988,-84.25286,161.39416,"(-84.25286, 161.39416)",AQ,Antarctica,Antarctica,,
+Dresden (Kansas),7730,Valid,H5,6760.0,Found,1953,39.61667,-100.46306,"(39.61667, -100.46306)",US,United States,Americas,Northern America,
+Elephant Moraine 90043,8453,Valid,CO3,12.5,Found,1990,-76.2683,156.42732,"(-76.2683, 156.42732)",AQ,Antarctica,Antarctica,,
+Yamato 791800,27149,Valid,H4,12.17,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99478,21924,Valid,LL5,0.9,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97423,20879,Valid,LL5,15.2,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 00857,16091,Valid,LL6,21.7,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Allan Hills A77113,1425,Valid,H5,2.0,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Grove Mountains 053988,48489,Valid,H6,0.76,Found,2006,-72.778889,75.313611,"(-72.778889, 75.313611)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Graves Nunataks 98115,11107,Valid,L6,44.9,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Ramlat as Sahmah 267,50955,Valid,LL6,117.1,Found,2008,20.5971,56.15087,"(20.5971, 56.15087)",OM,Oman,Asia,Western Asia,
+Jiddat al Harasis 111,34023,Valid,L/LL4,4235.0,Found,2004,19.6604,56.96171999999999,"(19.6604, 56.96172)",OM,Oman,Asia,Western Asia,
+Pallasovka,34061,Valid,"Pallasite, PMG",198000.0,Found,1990,49.86667,46.611670000000004,"(49.86667, 46.61167)",RU,Russia,Europe,Eastern Europe,
+Jiddat al Harasis 636,52794,Valid,LL5,76.4,Found,2010,19.67709,55.745490000000004,"(19.67709, 55.74549)",OM,Oman,Asia,Western Asia,
+Grove Mountains 021580,49836,Valid,CM2,0.48,Found,2003,-72.9633,75.2178,"(-72.9633, 75.2178)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Acfer 095,104,Valid,H3.7,104.0,Found,1990,27.71667,4.38333,"(27.71667, 4.38333)",DZ,Algeria,Africa,Northern Africa,
+Queen Alexandra Range 93074,19163,Valid,L5,45.7,Found,1993,-84.57295,162.13528,"(-84.57295, 162.13528)",AQ,Antarctica,Antarctica,,
+Cerro La Tiza,44877,Valid,H4,3740.0,Found,2002,-14.53321,-75.77511,"(-14.53321, -75.77511)",PE,Peru,Americas,Latin America and the Caribbean,South America
+Sayh al Uhaymir 307,34056,Valid,L~6,1.2,Found,2004,21.00295,57.32738000000001,"(21.00295, 57.32738)",OM,Oman,Asia,Western Asia,
+Farmington,10074,Valid,L5,89400.0,Fell,1890,39.75,-97.03333,"(39.75, -97.03333)",US,United States,Americas,Northern America,
+Meteorite Hills 01243,16475,Valid,H6,11.6,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Daraj 112,6571,Valid,L5/6,215.0,Found,1986,29.66472000000001,11.77639,"(29.66472, 11.77639)",LY,Libya,Africa,Northern Africa,
+Lewis Cliff 88722,14459,Valid,H5,3.4,Found,1988,-84.2324,161.47689,"(-84.2324, 161.47689)",AQ,Antarctica,Antarctica,,
+Yamato 790349,25698,Valid,H6,3.42,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Hassi-Jekna,11852,Valid,"Iron, IAB-sHL",1250.0,Fell,1890,28.95,0.81667,"(28.95, 0.81667)",DZ,Algeria,Africa,Northern Africa,
+Pecora Escarpment 91413,18704,Valid,H5,50.1,Found,1991,-85.70003,-68.54934,"(-85.70003, -68.54934)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Asuka 87334,2691,Valid,H4,637.91,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881855,4564,Valid,H4,1343.04,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791003,26352,Valid,H5,24.45,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 1703,56328,Valid,H6,193.0,Found,2010,19.11453,54.81357,"(19.11453, 54.81357)",OM,Oman,Asia,Western Asia,
+Yamato 792961,28310,Valid,E3,9.53,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 359,7142,Valid,H5-6,569.0,Found,2000,18.43085,54.45638,"(18.43085, 54.45638)",OM,Oman,Asia,Western Asia,
+Elton,10029,Valid,"Iron, ungrouped",1900.0,Found,1936,33.71667,-100.83333,"(33.71667, -100.83333)",US,United States,Americas,Northern America,
+Yamato 75221,25262,Valid,L6,2.91,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 053857,48482,Valid,H6,0.83,Found,2006,-72.783889,75.2725,"(-72.783889, 75.2725)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Ramlat as Sahmah 286,51887,Valid,H4-5,4445.2,Found,2009,20.50788,55.77547,"(20.50788, 55.77547)",OM,Oman,Asia,Western Asia,
+Yamato 81009,29070,Valid,H5,3.01,Found,1981,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791004,26353,Valid,H6,225.09,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 83003,523,Valid,H5,321.8,Found,1983,-76.71110999999998,159.42472,"(-76.71111, 159.42472)",AQ,Antarctica,Antarctica,,
+Dhofar 265,7048,Valid,L4,324.3,Found,2001,18.602829999999997,54.455169999999995,"(18.60283, 54.45517)",OM,Oman,Asia,Western Asia,
+Yamato 790520,25869,Valid,LL6,565.3,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792546,27895,Valid,H5,15.01,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 86156,29662,Valid,H4,1.49,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881983,4692,Valid,H6,7.95,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 87337,2694,Valid,L5,2642.0,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 96511,16570,Valid,L6,303.4,Found,1996,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94327,19961,Valid,L6,14.5,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 791107,26456,Valid,L5,283.55,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pecora Escarpment 91253,18544,Valid,H6,103.7,Found,1991,-85.32119,-69.86116,"(-85.32119, -69.86116)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 90251,19056,Valid,L5,126.6,Found,1990,-84.59528,162.31384,"(-84.59528, 162.31384)",AQ,Antarctica,Antarctica,,
+Foster,10170,Valid,H4,1992.0,Found,1975,33.1,-102.26666999999999,"(33.1, -102.26667)",US,United States,Americas,Northern America,
+Dar al Gani 516,6064,Valid,H6,298.0,Found,1997,27.111829999999998,16.084329999999998,"(27.11183, 16.08433)",LY,Libya,Africa,Northern Africa,
+Lewis Cliff 86382,13313,Valid,H6,21.8,Found,1986,-84.27375,161.69361999999995,"(-84.27375, 161.69362)",AQ,Antarctica,Antarctica,,
+Yamato 7312,24378,Valid,H5,39.8,Found,1973,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 83066,586,Valid,H5,45.9,Found,1983,-76.71951,158.76862,"(-76.71951, 158.76862)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90572,8981,Valid,L6,28.9,Found,1990,-76.26798000000002,156.44092,"(-76.26798, 156.44092)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94635,20266,Valid,L5,20.5,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 510,50923,Valid,H6,21.9,Found,2008,19.63498,55.56403,"(19.63498, 55.56403)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 97050,20457,Valid,L6,191.7,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 001030,15526,Valid,H6,20.7,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88078,13832,Valid,L5,9.7,Found,1988,-84.24546,161.42012,"(-84.24546, 161.42012)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97503,20959,Valid,LL5,4.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Numakai,17960,Valid,H4,363.0,Fell,1925,43.33333,141.86667,"(43.33333, 141.86667)",JP,Japan,Asia,Eastern Asia,
+Allan Hills A77028,1342,Valid,L6,0.53,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 001067,15563,Valid,H5,33.4,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Grove Mountains 050173,46925,Valid,L5,2.21,Found,2006,-72.98,75.24861,"(-72.98, 75.24861)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yayjinna,30359,Valid,L6,262.5,Found,1965,-32.03333,126.175,"(-32.03333, 126.175)",AU,Australia,Oceania,Australia and New Zealand,
+Temple,23894,Valid,L6,5000.0,Found,1959,31.11667000000001,-97.3,"(31.11667, -97.3)",US,United States,Americas,Northern America,
+Frontier Mountain 03011,30570,Valid,LL3,8.64,Found,2003,-72.95169,160.51428,"(-72.95169, 160.51428)",AQ,Antarctica,Antarctica,,
+Dhofar 815,7561,Valid,H5,89.45,Found,2001,18.9622,54.59012,"(18.9622, 54.59012)",OM,Oman,Asia,Western Asia,
+Grove Mountains 053822,50585,Valid,L5,6.87,Found,2006,-72.77944000000002,75.27,"(-72.77944, 75.27)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Meteorite Hills 00512,15747,Valid,LL5,93.4,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Sayh al Uhaymir 210,23383,Valid,L6,97.27,Found,2003,20.03577,57.22038000000001,"(20.03577, 57.22038)",OM,Oman,Asia,Western Asia,
+Hammadah al Hamra 224,11707,Valid,L6,820.0,Found,1997,29.31867,12.01017,"(29.31867, 12.01017)",LY,Libya,Africa,Northern Africa,
+Yamato 792792,28141,Valid,L6,47.72,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791952,27301,Valid,H6,7.79,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881317,4026,Valid,CV3,57.29,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793405,28754,Valid,H4,6.03,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 001133,15629,Valid,L5,4.5,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 112,34024,Valid,L~5,38.5,Found,2004,19.647470000000002,55.74997,"(19.64747, 55.74997)",OM,Oman,Asia,Western Asia,
+MacAlpine Hills 02536,14843,Valid,L5,1.2,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88367,14116,Valid,H3.8,14.0,Found,1988,-84.25138000000003,161.38948,"(-84.25138, 161.38948)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90040,8450,Valid,CK5,13.1,Found,1990,-76.27377,156.48818,"(-76.27377, 156.48818)",AQ,Antarctica,Antarctica,,
+Allan Hills A78159,1773,Valid,H5,22.6,Found,1978,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90900,9309,Valid,L6,23.4,Found,1990,-76.28430999999998,156.47701,"(-76.28431, 156.47701)",AQ,Antarctica,Antarctica,,
+Tarlton,23880,Valid,H4,226.5,Found,1967,39.32,-82.37,"(39.32, -82.37)",US,United States,Americas,Northern America,
+Queen Alexandra Range 99623,22069,Valid,LL5,5.5,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 971000,20508,Valid,LL5,16.3,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88247,13998,Valid,H5,10.5,Found,1988,-84.23564,161.42242,"(-84.23564, 161.42242)",AQ,Antarctica,Antarctica,,
+Yamato 86019,29525,Valid,L6,12.66,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 82062,29256,Valid,H4,26.13,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793078,28427,Valid,E3,0.63,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97554,21010,Valid,LL5,37.6,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Dhofar 1652,55570,Valid,L6,800.0,Found,2011,18.72397,54.5406,"(18.72397, 54.5406)",OM,Oman,Asia,Western Asia,
+Buck Mountain Wash,30446,Valid,H3-5,798.0,Found,2004,34.72453,-114.20883,"(34.72453, -114.20883)",US,United States,Americas,Northern America,
+Asuka 882073,4782,Valid,H3,296.44,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 85102,968,Valid,H5,12.6,Found,1985,-76.84062,156.3701,"(-76.84062, 156.3701)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99737,22183,Valid,LL5,4.1,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97843,21297,Valid,LL5,31.9,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 793273,28622,Valid,H6,97.22,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77041,1355,Valid,LL6,16.6,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91088,18379,Valid,H6,25.0,Found,1991,-85.65798000000002,-69.03397,"(-85.65798, -69.03397)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Allan Hills 83028,548,Valid,H6,16.0,Found,1983,-76.72278,159.36972,"(-76.72278, 159.36972)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94362,19995,Valid,L5,1.8,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87157,13624,Valid,H5,19.4,Found,1987,-84.34853000000003,161.32502,"(-84.34853, 161.32502)",AQ,Antarctica,Antarctica,,
+Yamato 82100,29294,Valid,Ureilite,12.36,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 82115,491,Valid,H5,48.5,Found,1982,-76.97442,156.90877,"(-76.97442, 156.90877)",AQ,Antarctica,Antarctica,,
+Mezel,16627,Valid,L6,1300.0,Fell,1949,45.76667,3.25,"(45.76667, 3.25)",FR,France,Europe,Western Europe,
+Dhofar 182,6966,Valid,Eucrite-mmict,255.1,Found,2000,18.93833,54.50133,"(18.93833, 54.50133)",OM,Oman,Asia,Western Asia,
+MacAlpine Hills 02485,14795,Valid,H5,4.03,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+El Médano 103,56636,Valid,LL6,61.0,Found,2011,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Grosvenor Mountains 95600,11328,Valid,LL5,19.8,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Yamato 81043,29104,Valid,L6,1.26,Found,1981,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790852,26201,Valid,LL6,5.17,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pei Xian,18784,Valid,Iron,400000.0,Found,1917,34.7,117.0,"(34.7, 117.0)",CN,China,Asia,Eastern Asia,
+Queen Alexandra Range 90205,19010,Valid,L5,458.5,Found,1990,-84.59612,162.30508,"(-84.59612, 162.30508)",AQ,Antarctica,Antarctica,,
+Grove Mountains 023138,48079,Valid,L4,4.52,Found,2003,-72.773333,75.336389,"(-72.773333, 75.336389)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dhofar 1077,6884,Valid,L5/6,118.9,Found,2001,18.73048,54.18233000000001,"(18.73048, 54.18233)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 90636,9045,Valid,L6,32.2,Found,1990,-76.27524,156.42288,"(-76.27524, 156.42288)",AQ,Antarctica,Antarctica,,
+Yamato 82047,29241,Valid,H4,27.13,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790105,25454,Valid,H4,0.98,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 87335,2692,Valid,H4,38.72,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790693,26042,Valid,LL,3.22,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 86749,30255,Valid,H4,21.24,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 879,6426,Valid,Ureilite,26.0,Found,2000,27.133329999999997,16.46667,"(27.13333, 16.46667)",LY,Libya,Africa,Northern Africa,
+Elephant Moraine 90330,8739,Valid,H6,6.5,Found,1990,-76.2686,156.46636,"(-76.2686, 156.46636)",AQ,Antarctica,Antarctica,,
+Beckett Nunatak 92601,4992,Valid,L6,104.0,Found,1992,-76.03333,160.18333,"(-76.03333, 160.18333)",AQ,Antarctica,Antarctica,,
+Mount DeWitt 96600,16769,Valid,H6,1644.4,Found,1996,-77.2,159.83333000000005,"(-77.2, 159.83333)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93658,19745,Valid,L5,20.2,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 86159,29665,Valid,H4,1.5,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 74655,25033,Valid,L6,10.55,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 94335,19969,Valid,H6,4.0,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 96235,9826,Valid,L6,5.7,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90058,8468,Valid,L6,16.9,Found,1990,-76.28316,156.50704,"(-76.28316, 156.50704)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90855,9264,Valid,L6,13.8,Found,1990,-76.28631,156.4723,"(-76.28631, 156.4723)",AQ,Antarctica,Antarctica,,
+Yamato 791264,26613,Valid,H4/5,4.22,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 94580,20211,Valid,L6,4.1,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 245,35563,Valid,Mesosiderite,16.2,Found,2005,19.97622,56.426669999999994,"(19.97622, 56.42667)",OM,Oman,Asia,Western Asia,
+Acfer 290,298,Valid,L6,213.0,Found,1992,27.545279999999998,4.04861,"(27.54528, 4.04861)",DZ,Algeria,Africa,Northern Africa,
+Yamato 75054,25095,Valid,L6,0.88,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 74106,24484,Valid,H6,146.6,Found,1974,-71.81333000000002,36.477779999999996,"(-71.81333, 36.47778)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 83341,7977,Valid,LL6,65.0,Found,1983,-76.29666999999998,157.32361,"(-76.29667, 157.32361)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 001005,15501,Valid,LL5,29.3,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93559,19647,Valid,H5,5.4,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 791584,26933,Valid,L6,2.52,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 455,6003,Valid,L6,2670.0,Found,1998,27.80517,15.926670000000001,"(27.80517, 15.92667)",LY,Libya,Africa,Northern Africa,
+Lewis Cliff 86540,13468,Valid,"Iron, IAB-sLH",21.1,Found,1986,-84.27121,161.35133000000005,"(-84.27121, 161.35133)",AQ,Antarctica,Antarctica,,
+Yamato 81007,29068,Valid,L5,2.22,Found,1981,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Savtschenskoje,23190,Valid,LL4,2500.0,Fell,1894,47.21667,29.86667000000001,"(47.21667, 29.86667)",UA,Ukraine,Europe,Eastern Europe,
+Yamato 86179,29685,Valid,H4,0.87,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97231,20689,Valid,LL5,47.6,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 75009,25050,Valid,LL6,4.17,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793584,28933,Valid,LL6,21.56,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 020921,47800,Valid,L5,1.2,Found,2003,-72.983889,75.24638900000002,"(-72.983889, 75.246389)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Grove Mountains 050016,48146,Valid,H3,0.63,Found,2006,-73.113333,75.103889,"(-73.113333, 75.103889)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Asuka 881117,3826,Valid,H4,37.5,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881563,4272,Valid,L6,19.83,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99354,21803,Valid,LL5,28.1,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91435,18726,Valid,H6,8.4,Found,1991,-85.69246,-69.09583,"(-85.69246, -69.09583)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Lewis Cliff 88059,13813,Valid,L6,10.8,Found,1988,-84.25168000000002,161.40149,"(-84.25168, 161.40149)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 01113,16346,Valid,L4,97.4,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+MacAlpine Hills 88128,15292,Valid,H5,233.7,Found,1988,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Asuka 881068,3777,Valid,H4,23.84,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Jiddat al Harasis 612,51968,Valid,H6,179.7,Found,2009,19.0097,55.34313,"(19.0097, 55.34313)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 90170,8579,Valid,L6,16.3,Found,1990,-76.2746,156.52833,"(-76.2746, 156.52833)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99199,21650,Valid,LL5,30.2,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Mifflin,52090,Valid,L5,3584.0,Fell,2010,42.9075,-90.36556,"(42.9075, -90.36556)",US,United States,Americas,Northern America,
+Meteorite Hills 01279,16511,Valid,LL5,30.6,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94531,20163,Valid,L5,2.9,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Kaffir (b),12224,Valid,H4,3500.0,Found,1966,34.67167,-101.815,"(34.67167, -101.815)",US,United States,Americas,Northern America,
+Elephant Moraine 92162,9563,Valid,CR2,31.6,Found,1992,-76.05237,156.01825,"(-76.05237, 156.01825)",AQ,Antarctica,Antarctica,,
+Asuka 882093,4802,Valid,H4,1606.34,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Breitscheid,5134,Valid,H5,1500.0,Fell,1956,50.666940000000004,8.18361,"(50.66694, 8.18361)",DE,Germany,Europe,Western Europe,
+Lewis Cliff 88641,14378,Valid,H5,8.6,Found,1988,-84.2709,161.4058,"(-84.2709, 161.4058)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 87774,8324,Valid,L5,65.6,Found,1987,-76.26623000000002,157.16238,"(-76.26623, 157.16238)",AQ,Antarctica,Antarctica,,
+Yamato 791256,26605,Valid,H4/5,5.62,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790181,25530,Valid,H6,17.51,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 87141,2498,Valid,L6,56.16,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90300,8709,Valid,L6,45.1,Found,1990,-76.27953000000002,156.46623,"(-76.27953, 156.46623)",AQ,Antarctica,Antarctica,,
+Yamato 791266,26615,Valid,H4/5,4.4,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 82138,29332,Valid,L6,8.8,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 88549,14290,Valid,H5,4.9,Found,1988,-84.24955,161.38592,"(-84.24955, 161.38592)",AQ,Antarctica,Antarctica,,
+Bates Nunataks A78002,4970,Valid,L6,4301.0,Found,1978,-80.25,153.5,"(-80.25, 153.5)",AQ,Antarctica,Antarctica,,
+Yamato 790760,26109,Valid,H4,301.2,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881274,3983,Valid,H4,107.41,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 88045,1089,Valid,CM1,18.0,Found,1988,-76.70495,159.09493,"(-76.70495, 159.09493)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 85427,12895,Valid,L5,14.8,Found,1985,-84.26428,161.37906999999996,"(-84.26428, 161.37907)",AQ,Antarctica,Antarctica,,
+Grove Mountains 090253,57370,Valid,L5,92.99,Found,2010,-72.77847,75.31425,"(-72.77847, 75.31425)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Pecora Escarpment 02068,18250,Valid,LL6,640.1,Found,2002,-85.63333,-68.7,"(-85.63333, -68.7)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Elephant Moraine 87604,8154,Valid,L5,63.6,Found,1987,-76.28321,157.17235,"(-76.28321, 157.17235)",AQ,Antarctica,Antarctica,,
+Grove Mountains 052121,48272,Valid,L6,73.88,Found,2006,-72.9775,75.255278,"(-72.9775, 75.255278)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Crumlin,5477,Valid,L5,4255.0,Fell,1902,54.61666999999999,-6.21667,"(54.61667, -6.21667)",GB,United Kingdom,Europe,Northern Europe,
+LaPaz Icefield 02311,12578,Valid,LL5,3.6,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Dhofar 1427,35515,Valid,Ureilite,12.92,Found,2001,19.11285,54.818769999999994,"(19.11285, 54.81877)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 97686,21142,Valid,LL5,1.1,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills A78068,1684,Valid,L6,3.19,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Grove Mountains 022986,50115,Valid,H4,0.47,Found,2003,-72.77360999999998,75.34361,"(-72.77361, 75.34361)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Wethersfield (1982),24251,Valid,L6,2756.0,Fell,1982,41.71056,-72.67361,"(41.71056, -72.67361)",US,United States,Americas,Northern America,
+Elephant Moraine 90258,8667,Valid,H6,10.5,Found,1990,-76.28716,156.44689,"(-76.28716, 156.44689)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 322,11805,Valid,H6,152.0,Found,2001,29.08933,12.427,"(29.08933, 12.427)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 020055,46646,Valid,H5,3.01,Found,2003,-72.99889,75.19722,"(-72.99889, 75.19722)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 02133,18946,Valid,H6,12.85,Found,2002,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grosvenor Mountains 85206,11215,Valid,H5,2420.1,Found,1985,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 00620,15854,Valid,H6,125.21,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Mount Wisting 95304,16814,Valid,L4,40.4,Found,1995,-86.45,-165.43333,"(-86.45, -165.43333)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Dhofar 1039,6842,Valid,H6,296.0,Found,2000,18.33045,54.5268,"(18.33045, 54.5268)",OM,Oman,Asia,Western Asia,
+Tulia (iron),24070,Valid,Iron,190.0,Found,1969,34.555,-101.63,"(34.555, -101.63)",US,United States,Americas,Northern America,
+Thumrayt 002,51862,Valid,L3.5,3072.0,Found,2007,17.9695,54.06633000000001,"(17.9695, 54.06633)",OM,Oman,Asia,Western Asia,
+Dhofar 720,7476,Valid,H4,392.0,Found,2000,18.945,54.895,"(18.945, 54.895)",OM,Oman,Asia,Western Asia,
+Yamato 790498,25847,Valid,H4,2.96,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 86031,12970,Valid,H5,74.5,Found,1986,-84.27373,161.69191999999995,"(-84.27373, 161.69192)",AQ,Antarctica,Antarctica,,
+Dar al Gani 116,5666,Valid,H5,615.0,Found,1996,27.195829999999997,16.013170000000002,"(27.19583, 16.01317)",LY,Libya,Africa,Northern Africa,
+Nedagolla,16935,Valid,"Iron, ungrouped",4500.0,Fell,1870,18.683329999999998,83.48333000000002,"(18.68333, 83.48333)",IN,India,Asia,Southern Asia,
+Asuka 881479,4188,Valid,H5,108.39,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A81301,2259,Valid,H5,12.5,Found,1981,-76.69111,159.29583,"(-76.69111, 159.29583)",AQ,Antarctica,Antarctica,,
+Grove Mountains 023299,50161,Valid,L6,0.48,Found,2003,-72.7736,75.3211,"(-72.7736, 75.3211)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Asuka 881796,4505,Valid,H4,820.52,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 053171,48413,Valid,H5,0.94,Found,2006,-72.7825,75.300278,"(-72.7825, 75.300278)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Meteorite Hills 01098,16331,Valid,H5,21.1,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91277,18568,Valid,L6,71.4,Found,1991,-85.69208,-67.64826,"(-85.69208, -67.64826)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 02187,18999,Valid,L5,9.66,Found,2002,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Hickiwan,11881,Valid,H5,1928.0,Found,1974,32.35833,-112.40888999999999,"(32.35833, -112.40889)",US,United States,Americas,Northern America,
+Piñon,18828,Valid,"Iron, ungrouped",17850.0,Found,1928,32.66667,-105.1,"(32.66667, -105.1)",US,United States,Americas,Northern America,
+Queen Alexandra Range 99805,22251,Valid,LL5,1.5,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 01099,10282,Valid,H5-6,3.7,Found,2001,-72.95167,160.51167,"(-72.95167, 160.51167)",AQ,Antarctica,Antarctica,,
+Allan Hills 85119,984,Valid,EL3,20.6,Found,1985,-76.83338,156.17453,"(-76.83338, 156.17453)",AQ,Antarctica,Antarctica,,
+Allan Hills A81239,2198,Valid,H5,31.6,Found,1981,-76.66816,159.29476,"(-76.66816, 159.29476)",AQ,Antarctica,Antarctica,,
+Yamato 86068,29574,Valid,H4,25.74,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90892,9301,Valid,L6,36.9,Found,1990,-76.27089000000002,156.4956,"(-76.27089, 156.4956)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86202,13140,Valid,H6,12.2,Found,1986,-84.2679,161.37118,"(-84.2679, 161.37118)",AQ,Antarctica,Antarctica,,
+Acfer 241,249,Valid,L6,86.0,Found,1991,27.515829999999998,3.7272199999999995,"(27.51583, 3.72722)",DZ,Algeria,Africa,Northern Africa,
+Queen Alexandra Range 93526,19614,Valid,L6,1.7,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Buenaventura,5162,Valid,"Iron, IIIAB",113600.0,Found,1969,29.8,-107.55,"(29.8, -107.55)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
+Frontier Mountain 01135,10317,Valid,H5,1.9,Found,2001,-72.9925,160.40167,"(-72.9925, 160.40167)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 236,11719,Valid,L4,8261.0,Found,1997,28.526329999999998,13.06517,"(28.52633, 13.06517)",LY,Libya,Africa,Northern Africa,
+Yamato 791558,26907,Valid,LL3.15,101.64,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792055,27404,Valid,H4,24.2,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881537,4246,Valid,LL6,15.17,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Jiddat al Harasis 108,12167,Valid,H6,817.2,Found,2002,19.735870000000002,55.828869999999995,"(19.73587, 55.82887)",OM,Oman,Asia,Western Asia,
+Yamato 791353,26702,Valid,H6,6.32,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791516,26865,Valid,L6,89.18,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 052938,48386,Valid,L6,0.74,Found,2006,-72.78027800000002,75.28666700000002,"(-72.780278, 75.286667)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Grosvenor Mountains 95641,11367,Valid,L4,21.9,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+El Médano 030,54498,Valid,H6,32.0,Found,2010,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Yamato 82204,29398,Valid,H4,6.34,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 020168,30688,Valid,H5,11.5,Found,2003,-72.97806,75.26333000000002,"(-72.97806, 75.26333)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Meteorite Hills 00472,15707,Valid,L6,348.3,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Benedict,5017,Valid,"Iron, IIIAB",16380.0,Found,1970,41.0,-97.53333,"(41.0, -97.53333)",US,United States,Americas,Northern America,
+Queen Alexandra Range 99691,22137,Valid,LL5,2.4,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99730,22176,Valid,H5,7.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 86239,29745,Valid,H4,2.83,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 88293,14044,Valid,H6,19.9,Found,1988,-84.23586,161.41952,"(-84.23586, 161.41952)",AQ,Antarctica,Antarctica,,
+Grove Mountains 052904,46488,Valid,L6,474.0,Found,2006,-72.77833000000003,75.31971999999998,"(-72.77833, 75.31972)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Thiel Mountains 91714,23942,Valid,EL5,163.9,Found,1991,-85.15639,-94.57049,"(-85.15639, -94.57049)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Grove Mountains 020337,49762,Valid,L6,0.87,Found,2003,-72.98389,75.24639,"(-72.98389, 75.24639)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Elephant Moraine 90945,9354,Valid,L6,41.2,Found,1990,-76.27449,156.42786,"(-76.27449, 156.42786)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 01318,16550,Valid,L5,10.6,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Allan Hills A77287,1597,Valid,H5,230.1,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99547,21993,Valid,LL5,4.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 053606,50562,Valid,L4,1.75,Found,2006,-72.77972,75.3075,"(-72.77972, 75.3075)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dar al Gani 193,5741,Valid,H6,115.0,Found,1996,27.11833,16.010170000000002,"(27.11833, 16.01017)",LY,Libya,Africa,Northern Africa,
+Muckera 014,16834,Valid,L5/6,54.0,Found,1991,-30.066670000000002,129.8475,"(-30.06667, 129.8475)",AU,Australia,Oceania,Australia and New Zealand,
+Allan Hills A81278,2236,Valid,L6,1.1,Found,1981,-76.66149,159.33228,"(-76.66149, 159.33228)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93017,19106,Valid,CM2,8.8,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 791884,27233,Valid,H5,5.09,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791244,26593,Valid,H4/5,5.85,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 88077,13831,Valid,H6,20.6,Found,1988,-84.24495999999998,161.40661,"(-84.24496, 161.40661)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91093,18384,Valid,H5,16.1,Found,1991,-85.65843000000002,-69.09084,"(-85.65843, -69.09084)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 97820,21274,Valid,LL5,10.1,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 85341,12811,Valid,H5,76.1,Found,1985,-84.28501,161.36158,"(-84.28501, 161.36158)",AQ,Antarctica,Antarctica,,
+Yamato 74359,24737,Valid,H-an,1.53,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90428,8837,Valid,CK5,7.3,Found,1990,-76.29299,156.35,"(-76.29299, 156.35)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86132,13071,Valid,L6,12.1,Found,1986,-84.25661,161.36341000000004,"(-84.25661, 161.36341)",AQ,Antarctica,Antarctica,,
+Grove Mountains 020936,49810,Valid,L5,0.47,Found,2003,-72.98389,75.24639,"(-72.98389, 75.24639)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 791445,26794,Valid,H6,4.75,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+San Juan 031,49510,Valid,L3,218.0,Found,2008,-25.440333,-69.87899999999999,"(-25.440333, -69.879)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Pecora Escarpment 91195,18486,Valid,H5,5.9,Found,1991,-85.68701999999998,-67.77660999999999,"(-85.68702, -67.77661)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Jiddat al Harasis 251,35568,Valid,Mesosiderite,60.5,Found,2005,19.97703,56.41985,"(19.97703, 56.41985)",OM,Oman,Asia,Western Asia,
+Millarville,16642,Valid,"Iron, IVA",15636.0,Found,1977,50.79722,-114.30944,"(50.79722, -114.30944)",CA,Canada,Americas,Northern America,
+Neagari,16934,Valid,L6,420.0,Fell,1995,36.44917,136.46528,"(36.44917, 136.46528)",JP,Japan,Asia,Eastern Asia,
+Queen Alexandra Range 02114,18927,Valid,H5,12.97,Found,2002,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87164,13631,Valid,L6,0.7,Found,1987,-84.34653,161.34114,"(-84.34653, 161.34114)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 270,11753,Valid,L3-5,100.0,Found,2000,28.686,12.90267,"(28.686, 12.90267)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 99004,11401,Valid,LL5,2.91,Found,2000,-73.08333,75.2,"(-73.08333, 75.2)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 97609,21065,Valid,LL5,9.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 84246,848,Valid,H5,1.8,Found,1984,-76.86689,158.52155,"(-76.86689, 158.52155)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94681,20312,Valid,L5,10.1,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 791549,26898,Valid,H4,1.9,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77204,1515,Valid,H4,5.61,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93120,19209,Valid,L5,6.4,Found,1993,-84.5758,162.56921,"(-84.5758, 162.56921)",AQ,Antarctica,Antarctica,,
+Yamato 86226,29732,Valid,H4,1.68,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Mount Prestrud 95405,16791,Valid,H5,31.9,Found,1995,-86.56667,-165.11667,"(-86.56667, -165.11667)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Yamato 790824,26173,Valid,H4,10.47,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Iguaracu,12003,Valid,H5,1200.0,Fell,1977,-23.2,-51.83333,"(-23.2, -51.83333)",BR,Brazil,Americas,Latin America and the Caribbean,South America
+Lewis Cliff 87198,13663,Valid,H5,47.2,Found,1987,-84.27322,161.70356,"(-84.27322, 161.70356)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 96326,9916,Valid,L6,1.3,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93084,19173,Valid,H4,3.3,Found,1993,-84.6305,162.52583,"(-84.6305, 162.52583)",AQ,Antarctica,Antarctica,,
+Graves Nunataks 98058,11050,Valid,L5,105.7,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Pecora Escarpment 91373,18664,Valid,L6,12.1,Found,1991,-85.68809,-68.35024,"(-85.68809, -68.35024)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Frontier Mountain 93047,10678,Valid,H6,0.18,Found,1993,-72.95472,160.43694,"(-72.95472, 160.43694)",AQ,Antarctica,Antarctica,,
+Yamato 86475,29981,Valid,H4,1.49,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 88093,1137,Valid,H5,8.84,Found,1988,-76.71667,159.33333000000005,"(-76.71667, 159.33333)",AQ,Antarctica,Antarctica,,
+MacAlpine Hills 02472,14784,Valid,L5,2.57,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Shişr 029,23564,Valid,H5,204.71,Found,1998,18.1501,53.80047,"(18.1501, 53.80047)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 96013,9607,Valid,CM2,2.13,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 96254,9845,Valid,H5,6.9,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Allan Hills 82114,490,Valid,H5,40.7,Found,1982,-77.03648000000003,157.23968,"(-77.03648, 157.23968)",AQ,Antarctica,Antarctica,,
+Hart Camp,11846,Valid,H6,1200.0,Found,1970,33.998329999999996,-102.17667,"(33.99833, -102.17667)",US,United States,Americas,Northern America,
+Asuka 881886,4595,Valid,LL3,137.08,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 86333,29839,Valid,H4,8.02,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Blanca Estela,45973,Valid,"Iron, IAB complex",15600.0,Found,2002,-25.0,-69.5,"(-25.0, -69.5)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Deakin 010,55718,Valid,Eucrite-mmict,438.0,Found,1988,-30.573,128.56367,"(-30.573, 128.56367)",AU,Australia,Oceania,Australia and New Zealand,
+Elephant Moraine 87655,8205,Valid,L6,93.0,Found,1987,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Allan Hills A79015,1890,Valid,H5,64.0,Found,1979,-76.70528,159.32693999999995,"(-76.70528, 159.32694)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 249,45841,Valid,R5,20.8,Found,2005,19.9767,56.42015,"(19.9767, 56.42015)",OM,Oman,Asia,Western Asia,
+Allan Hills 88066,1110,Valid,L/LL3,13.9,Found,1988,-76.68219,159.31165,"(-76.68219, 159.31165)",AQ,Antarctica,Antarctica,,
+Mundrabilla 015,16866,Valid,H5,26.69,Found,1992,-30.12633,127.41033,"(-30.12633, 127.41033)",AU,Australia,Oceania,Australia and New Zealand,
+Yamato 791447,26796,Valid,H4,1.99,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791143,26492,Valid,H4,190.39,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Hammadah al Hamra 141,11624,Valid,L5,78.0,Found,1995,28.517,13.059330000000001,"(28.517, 13.05933)",LY,Libya,Africa,Northern Africa,
+Roosevelt County 084,22739,Valid,L4,69.6,Found,1969,34.2,-103.23333000000001,"(34.2, -103.23333)",US,United States,Americas,Northern America,
+Dar al Gani 508,6056,Valid,H4,103.0,Found,1997,27.26683,16.06683,"(27.26683, 16.06683)",LY,Libya,Africa,Northern Africa,
+Frontier Mountain 01129,10312,Valid,H6,0.3,Found,2001,-72.95306,160.45667,"(-72.95306, 160.45667)",AQ,Antarctica,Antarctica,,
+Dhofar 677,7434,Valid,L6,533.0,Found,2001,19.223979999999997,54.63223000000001,"(19.22398, 54.63223)",OM,Oman,Asia,Western Asia,
+Yamato 791735,27084,Valid,H4,11.79,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 96304,9895,Valid,L6,15.7,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Northwest Africa 820,17852,Valid,L3-5,2000.0,Found,1999,31.41667,-4.1833300000000015,"(31.41667, -4.18333)",MA,Morocco,Africa,Northern Africa,
+Elephant Moraine 90679,9088,Valid,L6,70.7,Found,1990,-76.27618000000002,156.40101,"(-76.27618, 156.40101)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 87781,8331,Valid,H5,10.8,Found,1987,-76.04142,156.09541000000004,"(-76.04142, 156.09541)",AQ,Antarctica,Antarctica,,
+Dhofar 116,6901,Valid,L5,403.0,Found,2000,18.7435,54.5795,"(18.7435, 54.5795)",OM,Oman,Asia,Western Asia,
+El Médano 040,54836,Valid,H6,3.6,Found,2010,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Yamato 7309,24375,Valid,L5/6,9.0,Found,1973,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 93738,19823,Valid,H5,14.0,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 97010,10743,Valid,L4,23.1,Found,1997,-72.95306,160.4825,"(-72.95306, 160.4825)",AQ,Antarctica,Antarctica,,
+Yamato 82157,29351,Valid,L6,28.67,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Rabbit Dry Lake,22366,Valid,L6,20.0,Found,2000,34.44567,-117.01083,"(34.44567, -117.01083)",US,United States,Americas,Northern America,
+Asuka 882082,4791,Valid,H5,48.97,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790531,25880,Valid,LL,198.08,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97290,20748,Valid,L6,129.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 024006,48121,Valid,L6,0.6,Found,2003,-72.983611,75.252222,"(-72.983611, 75.252222)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 94423,20056,Valid,L5,6.7,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87134,13601,Valid,H6,9.6,Found,1987,-84.25411,161.42881,"(-84.25411, 161.42881)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86108,13047,Valid,H5,4.2,Found,1986,-84.27372,161.69167,"(-84.27372, 161.69167)",AQ,Antarctica,Antarctica,,
+Allan Hills 85049,915,Valid,L6,4.8,Found,1985,-76.87975,156.49206999999996,"(-76.87975, 156.49207)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99464,21910,Valid,L5,92.8,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90431,8840,Valid,L6,24.8,Found,1990,-76.26638,156.40148,"(-76.26638, 156.40148)",AQ,Antarctica,Antarctica,,
+Allan Hills 82128,504,Valid,H4,15.2,Found,1982,-76.96339,156.91969,"(-76.96339, 156.91969)",AQ,Antarctica,Antarctica,,
+Yamato 790833,26182,Valid,H4/5,6.27,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 94493,20125,Valid,L5,2.3,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90491,8900,Valid,L6,107.1,Found,1990,-76.27377,156.43655,"(-76.27377, 156.43655)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90821,9230,Valid,L6,5.5,Found,1990,-76.28426999999998,156.45955,"(-76.28427, 156.45955)",AQ,Antarctica,Antarctica,,
+Allan Hills A77264,1575,Valid,H5,11.0,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Umm as Samim 010,51874,Valid,H4,251.7,Found,2009,21.34885,56.16186999999999,"(21.34885, 56.16187)",OM,Oman,Asia,Western Asia,
+Yamato 793055,28404,Valid,E3,0.77,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 93290,19378,Valid,L5,18.1,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Fremont Butte,10181,Valid,L4,6647.0,Found,1963,38.5,-105.5,"(38.5, -105.5)",US,United States,Americas,Northern America,
+Miller Range 99300,16656,Valid,H5,2419.8,Found,1999,-83.25,157.0,"(-83.25, 157.0)",AQ,Antarctica,Antarctica,,
+Asuka 87075,2432,Valid,L6,71.87,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 97848,21302,Valid,LL5,13.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 525,51412,Valid,L4-6,1.6,Found,2008,19.53323,55.175019999999996,"(19.53323, 55.17502)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 90258,19063,Valid,L5,126.5,Found,1990,-84.61147,162.13861,"(-84.61147, 162.13861)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99339,21789,Valid,LL5,17.1,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 793372,28721,Valid,H4,9.61,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 88391,14138,Valid,H5,15.7,Found,1988,-84.23971,161.43717,"(-84.23971, 161.43717)",AQ,Antarctica,Antarctica,,
+Allan Hills A81048,2008,Valid,H4,190.6,Found,1981,-76.72140999999998,158.76213,"(-76.72141, 158.76213)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 674,56228,Valid,H5,22.6,Found,2011,19.66163,55.69758,"(19.66163, 55.69758)",OM,Oman,Asia,Western Asia,
+Dar al Gani 360,5908,Valid,L6,87.0,Found,1997,27.9275,15.831170000000002,"(27.9275, 15.83117)",LY,Libya,Africa,Northern Africa,
+Elephant Moraine 87737,8287,Valid,L6,24.9,Found,1987,-76.28357,156.45025,"(-76.28357, 156.45025)",AQ,Antarctica,Antarctica,,
+Pecora Escarpment 91274,18565,Valid,L6,32.2,Found,1991,-85.67723000000002,-68.70121,"(-85.67723, -68.70121)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Meteorite Hills A78016,16612,Valid,H6,114.1,Found,1978,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Dar al Gani 953,6493,Valid,H4,50.5,Found,1999,27.125,16.34533,"(27.125, 16.34533)",LY,Libya,Africa,Northern Africa,
+Meteorite Hills 00924,16158,Valid,H5,18.3,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Grove Mountains 022228,46891,Valid,L6,46.45,Found,2003,-72.77833000000003,75.32083,"(-72.77833, 75.32083)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Hughes 023,11947,Valid,LL6,111.0,Found,1991,-30.085,129.10283,"(-30.085, 129.10283)",AU,Australia,Oceania,Australia and New Zealand,
+Happy Canyon,11821,Valid,EL6/7,16300.0,Found,1971,34.80167,-101.56667,"(34.80167, -101.56667)",US,United States,Americas,Northern America,
+Lewis Cliff 88097,13851,Valid,H5,9.1,Found,1988,-84.25256,161.40572,"(-84.25256, 161.40572)",AQ,Antarctica,Antarctica,,
+Asuka 881255,3964,Valid,H5,21.69,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881035,3744,Valid,H4,22.03,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 94507,20139,Valid,L6,2.8,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Benjamin,5020,Valid,H4/5,51800.0,Found,1969,33.58333,-99.8,"(33.58333, -99.8)",US,United States,Americas,Northern America,
+Asuka 87199,2556,Valid,L3,77.76,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Devil Peak,6695,Valid,L6,34.7,Found,1999,35.65917,-115.37283000000001,"(35.65917, -115.37283)",US,United States,Americas,Northern America,
+Elephant Moraine 90758,9167,Valid,L6,44.2,Found,1990,-76.28479,156.46238,"(-76.28479, 156.46238)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88129,13882,Valid,H6,17.9,Found,1988,-84.23427,161.60503,"(-84.23427, 161.60503)",AQ,Antarctica,Antarctica,,
+Ramlat as Sahmah 208,35642,Valid,H3.8/3.9,50.13,Found,2003,20.58568,56.0476,"(20.58568, 56.0476)",OM,Oman,Asia,Western Asia,
+Lewis Cliff 88636,14373,Valid,H5,1.1,Found,1988,-84.27271,161.41314,"(-84.27271, 161.41314)",AQ,Antarctica,Antarctica,,
+Dhofar 846,7592,Valid,H6,156.0,Found,2001,18.343329999999998,54.09333,"(18.34333, 54.09333)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 94454,20086,Valid,L6,5.0,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94560,20192,Valid,L6,1.6,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 95100,1278,Valid,L6,19.3,Found,1995,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Yamato 75099,25140,Valid,H6,1.04,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 84171,773,Valid,H6,36.6,Found,1984,-76.98612,156.87503999999996,"(-76.98612, 156.87504)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 279,35596,Valid,L6,7494.2,Found,2005,19.973029999999998,55.9528,"(19.97303, 55.9528)",OM,Oman,Asia,Western Asia,
+Asuka 87056,2413,Valid,H5,10.88,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793488,28837,Valid,H6,6.12,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Frontier Mountain 84020,10382,Valid,H5,1.2,Found,1984,-72.95488,160.47328000000005,"(-72.95488, 160.47328)",AQ,Antarctica,Antarctica,,
+Asuka 882040,4749,Valid,L6,212.85,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77231,1542,Valid,L6,9270.0,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Frontier Mountain 09024,55370,Valid,H5,13.7,Found,2009,-72.95312,160.49633,"(-72.95312, 160.49633)",AQ,Antarctica,Antarctica,,
+Allan Hills 84055,657,Valid,H5,6900.5,Found,1984,-76.72944,158.74157,"(-76.72944, 158.74157)",AQ,Antarctica,Antarctica,,
+Yamato 81016,29077,Valid,H5,1006.33,Found,1981,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 92105,9507,Valid,CR2,18.2,Found,1992,-76.06641,156.01349,"(-76.06641, 156.01349)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86467,13397,Valid,H5,0.4,Found,1986,-84.27402,161.67934,"(-84.27402, 161.67934)",AQ,Antarctica,Antarctica,,
+Casimiro de Abreu,5289,Valid,"Iron, IIIAB",25000.0,Found,1947,-22.46667,-42.21667,"(-22.46667, -42.21667)",BR,Brazil,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 93556,19644,Valid,H5,20.0,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Reckling Peak 92436,22445,Valid,L6,2.0,Found,1992,-76.24181,158.15758,"(-76.24181, 158.15758)",AQ,Antarctica,Antarctica,,
+Roda,22641,Valid,Diogenite,400.0,Fell,1871,42.3,0.55,"(42.3, 0.55)",ES,Spain,Europe,Southern Europe,
+Queen Alexandra Range 99136,21588,Valid,LL5,3.5,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 87775,8325,Valid,L6,16.8,Found,1987,-76.28262,156.45666,"(-76.28262, 156.45666)",AQ,Antarctica,Antarctica,,
+Yamato 790319,25668,Valid,H4,0.94,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 86062,13001,Valid,H5,13.2,Found,1986,-84.25254,161.39806000000004,"(-84.25254, 161.39806)",AQ,Antarctica,Antarctica,,
+Dhofar 1694,56319,Valid,H6,740.0,Found,2010,19.109779999999997,54.81697,"(19.10978, 54.81697)",OM,Oman,Asia,Western Asia,
+Allan Hills A77025,1339,Valid,H5,19.4,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Yamato 790838,26187,Valid,LL6,7.52,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 90248,19053,Valid,L5,153.9,Found,1990,-84.59325,162.24953,"(-84.59325, 162.24953)",AQ,Antarctica,Antarctica,,
+Yamato 75133,25174,Valid,L6,82.1,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Muroc,16879,Valid,L,18.4,Found,1936,34.91667,-117.83333,"(34.91667, -117.83333)",US,United States,Americas,Northern America,
+Frontier Mountain 90022,10420,Valid,H4,10.8,Found,1990,-72.95488,160.47328000000005,"(-72.95488, 160.47328)",AQ,Antarctica,Antarctica,,
+Yamato 82041,29235,Valid,H5,137.94,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77262,1573,Valid,H4,861.5,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86080,13019,Valid,H5,13.5,Found,1986,-84.27372,161.69053,"(-84.27372, 161.69053)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 92040,9442,Valid,H5,426.2,Found,1992,-76.04524,156.26793,"(-76.04524, 156.26793)",AQ,Antarctica,Antarctica,,
+La Porte,12401,Valid,"Iron, IIIAB",14540.0,Found,1900,41.6,-86.71667,"(41.6, -86.71667)",US,United States,Americas,Northern America,
+Allan Hills 94020,1277,Valid,L6,14.3,Found,1994,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Dhofar 337,7120,Valid,L5,580.0,Found,2001,18.726670000000002,54.675,"(18.72667, 54.675)",OM,Oman,Asia,Western Asia,
+Grove Mountains 051733,46450,Valid,L5,2.18,Found,2006,-72.77833000000003,75.31833,"(-72.77833, 75.31833)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Shişr 006,23544,Valid,L3.9,432.0,Found,2000,18.415,53.98833000000001,"(18.415, 53.98833)",OM,Oman,Asia,Western Asia,
+Lewis Cliff 88397,14144,Valid,L6,4.0,Found,1988,-84.24242,161.46873,"(-84.24242, 161.46873)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93234,19323,Valid,H5,9.0,Found,1993,-84.59107,162.24576000000005,"(-84.59107, 162.24576)",AQ,Antarctica,Antarctica,,
+Grove Mountains 055153,50666,Valid,Mesosiderite,0.17,Found,2006,-72.99889,75.18722,"(-72.99889, 75.18722)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 94773,20403,Valid,L6,4.4,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills A79045,1918,Valid,L3.5,115.4,Found,1979,-76.70278,159.40139,"(-76.70278, 159.40139)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 96089,9683,Valid,L6,8.9,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97377,20834,Valid,LL5,1.7,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+United Arab Emirates 024,51046,Valid,L6,45.0,Found,2009,22.89314,55.17828000000001,"(22.89314, 55.17828)",OM,Oman,Asia,Western Asia,
+Dhofar 266,7049,Valid,H5,85.6,Found,2001,18.75783,54.4365,"(18.75783, 54.4365)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 87727,8277,Valid,L6,28.5,Found,1987,-76.28222,156.4532,"(-76.28222, 156.4532)",AQ,Antarctica,Antarctica,,
+Yamato 791736,27085,Valid,H4,14.61,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793493,28842,Valid,L6,1.85,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Frontier Mountain 84026,10388,Valid,H4,9.0,Found,1984,-72.95488,160.47328000000005,"(-72.95488, 160.47328)",AQ,Antarctica,Antarctica,,
+Caleta el Cobre 015,54633,Valid,L6,115.0,Found,2010,-24.25,-70.51666999999998,"(-24.25, -70.51667)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Elephant Moraine 90034,8444,Valid,L6,1413.6,Found,1990,-76.28193,156.40161,"(-76.28193, 156.40161)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88683,14420,Valid,L6,15.7,Found,1988,-84.27731,161.40681,"(-84.27731, 161.40681)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97461,20917,Valid,LL5,16.3,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 880973,3682,Valid,H3.6,19.84,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 532,7293,Valid,H5,86.0,Found,2001,18.42,54.246669999999995,"(18.42, 54.24667)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 99803,22249,Valid,LL5,2.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Bluewater,5078,Valid,"Iron, IIIAB",9540.0,Found,1946,35.26667,-107.96667,"(35.26667, -107.96667)",US,United States,Americas,Northern America,
+Forrest 010,10133,Valid,L4,359.0,Found,1982,-30.11667000000001,127.86667,"(-30.11667, 127.86667)",AU,Australia,Oceania,Australia and New Zealand,
+Yamato 790296,25645,Valid,H4,3.61,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793446,28795,Valid,H4,6.59,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 392,5940,Valid,H5,718.0,Found,1997,27.42383,16.34,"(27.42383, 16.34)",LY,Libya,Africa,Northern Africa,
+Lewis Cliff 88081,13835,Valid,H5,11.5,Found,1988,-84.25214,161.39776,"(-84.25214, 161.39776)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99066,21518,Valid,LL5,21.4,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 793301,28650,Valid,H4,5.23,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77296,1606,Valid,L6,963.3,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Grove Mountains 021601,47822,Valid,H6,0.85,Found,2003,-72.825,75.356111,"(-72.825, 75.356111)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Grove Mountains 022307,49977,Valid,L5,0.44,Found,2003,-72.77889,75.30139,"(-72.77889, 75.30139)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Jiddat al Harasis 518,50929,Valid,H6,14.1,Found,2008,19.53042,55.18006999999999,"(19.53042, 55.18007)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 94375,20008,Valid,L5,19.1,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99431,21879,Valid,H5,3.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills A78051,1667,Valid,H4,119.5,Found,1978,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Sayh al Uhaymir 400,35691,Valid,L6,45.59,Found,2004,20.53578,56.6709,"(20.53578, 56.6709)",OM,Oman,Asia,Western Asia,
+LaPaz Icefield 02405,12672,Valid,H5,8.72,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Zavetnoe,30395,Valid,L6,800.0,Fell,1952,47.13333,43.9,"(47.13333, 43.9)",RU,Russia,Europe,Eastern Europe,
+Grove Mountains 020059,46650,Valid,L4,209.0,Found,2003,-72.99417,75.20528,"(-72.99417, 75.20528)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 791476,26825,Valid,H4/5,23.47,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792060,27409,Valid,H4,14.64,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pecora Escarpment 91418,18709,Valid,H6,14.0,Found,1991,-85.69023,-69.0905,"(-85.69023, -69.0905)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Queen Alexandra Range 97935,21389,Valid,LL5,3.6,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+LaPaz Icefield 02279,12546,Valid,L5,5.32,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Yamato 86351,29857,Valid,H4,7.14,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pecora Escarpment 02044,18226,Valid,L4,1.21,Found,2002,-85.63333,-68.7,"(-85.63333, -68.7)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Frontier Mountain 84009,10371,Valid,H4,9.6,Found,1984,-72.95488,160.47328000000005,"(-72.95488, 160.47328)",AQ,Antarctica,Antarctica,,
+Sunstone Knoll,23747,Valid,L6,15.6,Found,1985,39.16278,-112.70806,"(39.16278, -112.70806)",US,United States,Americas,Northern America,
+Miller Range 99309,16665,Valid,L5,273.6,Found,1999,-83.25,157.0,"(-83.25, 157.0)",AQ,Antarctica,Antarctica,,
+Acfer 159,168,Valid,H3.8,123.0,Found,1990,27.5,3.93333,"(27.5, 3.93333)",DZ,Algeria,Africa,Northern Africa,
+Lewis Cliff 88583,14323,Valid,H6,6.0,Found,1988,-84.24968,161.40339,"(-84.24968, 161.40339)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 86230,13164,Valid,H5,2.4,Found,1986,-84.27365999999998,161.69391000000005,"(-84.27366, 161.69391)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94481,20113,Valid,L5,8.8,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Dar al Gani 514,6062,Valid,H4-6,83.0,Found,1997,27.0715,16.11583,"(27.0715, 16.11583)",LY,Libya,Africa,Northern Africa,
+Willard (b),24271,Valid,H3.6,12700.0,Found,1934,34.5,-105.83333,"(34.5, -105.83333)",US,United States,Americas,Northern America,
+Yamato 74338,24716,Valid,H5,2.09,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 022864,50088,Valid,H5,0.63,Found,2003,-72.7739,75.3333,"(-72.7739, 75.3333)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Catalina 017,57183,Valid,H5,426.0,Found,2010,-25.23333,-69.71667,"(-25.23333, -69.71667)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Northwest Africa 778,17849,Valid,H4,9747.0,Found,1999,29.41667,-5.2666699999999995,"(29.41667, -5.26667)",MA,Morocco,Africa,Northern Africa,
+Superior Valley 002,23749,Valid,L6,145.0,Found,2000,35.22358,-117.1136,"(35.22358, -117.1136)",US,United States,Americas,Northern America,
+Asuka 881751,4460,Valid,L6,11.94,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 906,6453,Valid,L6,112.0,Found,2000,27.09283,16.12717,"(27.09283, 16.12717)",LY,Libya,Africa,Northern Africa,
+Elephant Moraine 90316,8725,Valid,L6,76.9,Found,1990,-76.2797,156.47386,"(-76.2797, 156.47386)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 067,11550,Valid,L6,292.0,Found,1994,28.639670000000002,12.71433,"(28.63967, 12.71433)",LY,Libya,Africa,Northern Africa,
+Bou Kra 003,57217,Valid,L6,50.0,Found,2010,26.81089,-12.718639999999999,"(26.81089, -12.71864)",EH,Western Sahara,Africa,Northern Africa,
+Yamato 790720,26069,Valid,LL,1.79,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 83251,7891,Valid,Eucrite-pmict,261.4,Found,1983,-76.28611,157.23972,"(-76.28611, 157.23972)",AQ,Antarctica,Antarctica,,
+Dar al Gani 303,5851,Valid,CO3,365.0,Found,1997,27.135,16.2335,"(27.135, 16.2335)",LY,Libya,Africa,Northern Africa,
+Frontier Mountain 01064,10247,Valid,L6,1.2,Found,2001,-72.98806,160.40833,"(-72.98806, 160.40833)",AQ,Antarctica,Antarctica,,
+Allan Hills A80128,1955,Valid,H4,138.2,Found,1980,-76.68861,159.25666999999999,"(-76.68861, 159.25667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93581,19668,Valid,L5,1.2,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 74438,24816,Valid,H5,42.24,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Carbo,5266,Valid,"Iron, IID",454000.0,Found,1923,29.66667,-111.5,"(29.66667, -111.5)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
+Dhofar 504,7265,Valid,H4,331.0,Found,2000,18.735,54.36833000000001,"(18.735, 54.36833)",OM,Oman,Asia,Western Asia,
+Algarrobo,467,Valid,"Iron, IAB-ung",1280.0,Found,1959,-27.08333,-70.58333,"(-27.08333, -70.58333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Allan Hills 94017,1274,Valid,L6,9.6,Found,1994,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97318,20776,Valid,LL5,7.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 84178,780,Valid,H5,0.4,Found,1984,-76.80065,158.12891000000005,"(-76.80065, 158.12891)",AQ,Antarctica,Antarctica,,
+Yamato 74611,24989,Valid,L6,7.4,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99657,22103,Valid,LL5,1.4,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 790465,25814,Valid,H5,25.87,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Sylacauga,23773,Valid,H4,5560.0,Fell,1954,33.188359999999996,-86.2945,"(33.18836, -86.2945)",US,United States,Americas,Northern America,
+Acfer 113,122,Valid,LL6,2906.0,Found,1990,27.566670000000002,4.03333,"(27.56667, 4.03333)",DZ,Algeria,Africa,Northern Africa,
+Yamato 791067,26416,Valid,LL7,234.59,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Shişr 102,35718,Valid,L6,3600.0,Found,2002,18.6262,53.9156,"(18.6262, 53.9156)",OM,Oman,Asia,Western Asia,
+Meteorite Hills 01268,16500,Valid,H6,8.0,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Allan Hills 85019,885,Valid,LL6,632.8,Found,1985,-76.91508,156.53178,"(-76.91508, 156.53178)",AQ,Antarctica,Antarctica,,
+Yamato 792991,28340,Valid,E3,1.77,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 052883,48375,Valid,L5,0.95,Found,2006,-72.825278,75.353611,"(-72.825278, 75.353611)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 792547,27896,Valid,H4,15.21,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99885,22329,Valid,LL5,8.9,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93548,19636,Valid,H6,2.4,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 050200,46932,Valid,H3,84.01,Found,2006,-72.98056,75.25166999999998,"(-72.98056, 75.25167)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+LaPaz Icefield 02273,12540,Valid,LL5,25.25,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Shişr 121,51675,Valid,H4,49.0,Found,2007,18.25862,53.99213,"(18.25862, 53.99213)",OM,Oman,Asia,Western Asia,
+Yamato 794011,28965,Valid,H3.6,19.0,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Taouz 002,23875,Valid,LL6,8350.0,Found,1999,30.9,-3.9666699999999997,"(30.9, -3.96667)",MA,Morocco,Africa,Northern Africa,
+Dhofar 936,7638,Valid,H4,62.0,Found,2000,18.89333,54.731669999999994,"(18.89333, 54.73167)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 97338,20796,Valid,L6,23.0,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 792613,27962,Valid,H4/5,2.27,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791485,26834,Valid,LL4-6,3.53,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 001113,15609,Valid,LL6,12.5,Found,2000,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,,
+Grove Mountains 051649,48211,Valid,L6,28.72,Found,2006,-72.781111,75.320833,"(-72.781111, 75.320833)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Grove Mountains 052483,48330,Valid,L-imp melt,162.84,Found,2006,-72.77972199999998,75.31611099999998,"(-72.779722, 75.316111)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Sayh al Uhaymir 297,34046,Valid,H~5,1.6,Found,2004,20.998379999999997,57.31972,"(20.99838, 57.31972)",OM,Oman,Asia,Western Asia,
+MacAlpine Hills 88187,15351,Valid,L6,94.7,Found,1988,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Dhofar 1613,52780,Valid,L5,8.6,Found,2009,18.695420000000002,54.47425,"(18.69542, 54.47425)",OM,Oman,Asia,Western Asia,
+Meteorite Hills 00828,16062,Valid,LL5,2.78,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Derrick Peak A78008,6684,Valid,"Iron, IIAB",59400.0,Found,1978,-80.06667,156.38333,"(-80.06667, 156.38333)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 02130,18943,Valid,LL5,1.26,Found,2002,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 97780,21235,Valid,H6,4.8,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 83047,567,Valid,H5,20.0,Found,1983,-76.69917,159.39861000000005,"(-76.69917, 159.39861)",AQ,Antarctica,Antarctica,,
+Yamato 791915,27264,Valid,H4,3.47,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 85301,12774,Valid,H6,13.1,Found,1985,-84.28402,161.3713,"(-84.28402, 161.3713)",AQ,Antarctica,Antarctica,,
+Dar al Gani 006,5522,Valid,CO3,3130.0,Found,1995,27.169829999999997,15.9255,"(27.16983, 15.9255)",LY,Libya,Africa,Northern Africa,
+Sayh al Uhaymir 077,23269,Valid,H6,23.2,Found,2001,21.01183,57.33,"(21.01183, 57.33)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 94399,20032,Valid,H5,3.1,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90599,9008,Valid,L6,57.9,Found,1990,-76.27181999999998,156.40874,"(-76.27182, 156.40874)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 96058,9652,Valid,H5,185.0,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Dar al Gani 613,6160,Valid,LL4,566.0,Found,1998,27.039,16.26117,"(27.039, 16.26117)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 054623,48527,Valid,L5,1.55,Found,2006,-72.773333,75.328611,"(-72.773333, 75.328611)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 790639,25988,Valid,LL,5.66,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 93448,19536,Valid,L5,21.6,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills A80111,1938,Valid,H5,42.4,Found,1980,-76.75195,159.32471999999999,"(-76.75195, 159.32472)",AQ,Antarctica,Antarctica,,
+Grove Mountains 021843,49892,Valid,H5,0.52,Found,2003,-72.77833000000003,75.32611,"(-72.77833, 75.32611)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Lewis Cliff 88482,14226,Valid,H6,4.9,Found,1988,-84.24762,161.42705,"(-84.24762, 161.42705)",AQ,Antarctica,Antarctica,,
+Lucerne Valley 120,52465,Valid,L6,43.1,Found,2010,34.48388,-116.9501,"(34.48388, -116.9501)",US,United States,Americas,Northern America,
+Cheder,5336,Valid,"Iron, IID",5390.0,Found,2003,51.53333,94.6,"(51.53333, 94.6)",RU,Russia,Europe,Eastern Europe,
+Queen Alexandra Range 99310,21760,Valid,H6,25.3,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills A77144,1456,Valid,H6,7.9,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Forrest 028,10151,Valid,L7,48.7,Found,1992,-30.732329999999997,127.949,"(-30.73233, 127.949)",AU,Australia,Oceania,Australia and New Zealand,
+Lewis Cliff 88441,14186,Valid,H5,11.9,Found,1988,-84.25091,161.38536000000005,"(-84.25091, 161.38536)",AQ,Antarctica,Antarctica,,
+Allan Hills A77070,1383,Valid,H5,18.4,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Hughes 004,11928,Valid,Howardite,304.0,Found,1991,-30.58517,129.58667,"(-30.58517, 129.58667)",AU,Australia,Oceania,Australia and New Zealand,
+Thurman,23980,Valid,OC,1959.0,Found,1965,39.52167,-103.16667,"(39.52167, -103.16667)",US,United States,Americas,Northern America,
+San Joaquin,47356,Valid,L5/6,31.8,Found,2005,32.16657,-111.11718,"(32.16657, -111.11718)",US,United States,Americas,Northern America,
+Yamato 793336,28685,Valid,LL6,0.86,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791225,26574,Valid,H4/5,22.91,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A81078,2038,Valid,H6,5.9,Found,1981,-76.69139,159.38778,"(-76.69139, 159.38778)",AQ,Antarctica,Antarctica,,
+Dar al Gani 347,5895,Valid,H6,47.0,Found,1997,27.20283,16.05767,"(27.20283, 16.05767)",LY,Libya,Africa,Northern Africa,
+MacAlpine Hills 02488,14798,Valid,L6,20.86,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93646,19733,Valid,L5,1.5,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Allan Hills 84192,794,Valid,H5,4.2,Found,1984,-76.68029,159.34296,"(-76.68029, 159.34296)",AQ,Antarctica,Antarctica,,
+Poonarunna,18868,Valid,H5,76.0,Found,1970,-27.76667,137.85,"(-27.76667, 137.85)",AU,Australia,Oceania,Australia and New Zealand,
+Jiddat al Harasis 449,48600,Valid,L/LL4,73.64699999999998,Found,2007,19.644679999999997,56.440430000000006,"(19.64468, 56.44043)",OM,Oman,Asia,Western Asia,
+Yamato 791136,26485,Valid,LL5/6,1.0,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 880660,3369,Valid,L6,11.5,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790229,25578,Valid,H5,0.76,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 678,6225,Valid,H5/6,162.0,Found,2000,26.75,16.433329999999998,"(26.75, 16.43333)",LY,Libya,Africa,Northern Africa,
+Acfer 037,47,Valid,LL4-6,385.0,Found,1989,27.55,4.13333,"(27.55, 4.13333)",DZ,Algeria,Africa,Northern Africa,
+Canyon City,5256,Valid,"Iron, IIIAB",8600.0,Found,1875,40.9,-123.1,"(40.9, -123.1)",US,United States,Americas,Northern America,
+Alatage,452,Valid,"Iron, IIIAB",37500.0,Found,1959,42.33333,93.0,"(42.33333, 93.0)",CN,China,Asia,Eastern Asia,
+Pecora Escarpment 91150,18441,Valid,L6,18.9,Found,1991,-85.67317,-68.67519,"(-85.67317, -68.67519)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Acfer 244,252,Valid,H6,2045.0,Found,1991,27.524720000000002,3.8097199999999996,"(27.52472, 3.80972)",DZ,Algeria,Africa,Northern Africa,
+Queen Alexandra Range 99877,22321,Valid,LL5,16.8,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94254,19892,Valid,H6,3.0,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 790597,25946,Valid,LL,7.06,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790298,25647,Valid,H4,2.25,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Gomez,10944,Valid,L6,47000.0,Found,1974,33.18139,-102.40139,"(33.18139, -102.40139)",US,United States,Americas,Northern America,
+Renqiu,22589,Valid,L6,355.0,Fell,1916,38.66667,116.13333,"(38.66667, 116.13333)",CN,China,Asia,Eastern Asia,
+Yamato 74642,25020,Valid,CM2,10.6,Found,1974,-71.70278,35.90833,"(-71.70278, 35.90833)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Graves Nunataks 98103,11095,Valid,Eucrite-br,41.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Yamato 790527,25876,Valid,LL,299.9,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Tungsten Mountain 002,24073,Valid,H6,11.3,Found,2001,39.67357,-117.60432,"(39.67357, -117.60432)",US,United States,Americas,Northern America,
+Thiel Mountains 99006,23958,Valid,H6,31.0,Found,2000,-85.16323,-94.57987,"(-85.16323, -94.57987)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Grove Mountains 050031,48152,Valid,H4,31.59,Found,2006,-73.103889,75.17,"(-73.103889, 75.17)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 86028,29534,Valid,C6,3.92,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792671,28020,Valid,H4,5.56,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 86635,30141,Valid,H6,121.6,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 93856,14578,Valid,H6,7.4,Found,1993,-84.27391,161.68428,"(-84.27391, 161.68428)",AQ,Antarctica,Antarctica,,
+Acfer 112,121,Valid,LL4/5,216.0,Found,1990,27.65,4.03333,"(27.65, 4.03333)",DZ,Algeria,Africa,Northern Africa,
+Graves Nunataks 98055,11047,Valid,Eucrite-br,140.8,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Dhofar 1018,6819,Valid,H5,506.0,Found,2001,18.715220000000002,54.37633,"(18.71522, 54.37633)",OM,Oman,Asia,Western Asia,
+Asuka 87288,2645,Valid,H4,21.26,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793229,28578,Valid,L5,31.36,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dar al Gani 166,5714,Valid,H5,44.0,Found,1996,27.165329999999997,16.14483,"(27.16533, 16.14483)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 022807,48022,Valid,H5,0.68,Found,2003,-72.775278,75.329167,"(-72.775278, 75.329167)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Superior Valley 022,31332,Valid,H5,38.9,Found,2004,35.23705,-117.01618,"(35.23705, -117.01618)",US,United States,Americas,Northern America,
+Yamato 86148,29654,Valid,H4,2.2,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90062,8472,Valid,L6,43.4,Found,1990,-76.279,156.42311,"(-76.279, 156.42311)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 87821,8371,Valid,H5,152.5,Found,1987,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 87234,13696,Valid,E3-an,34.2,Found,1987,-84.36199,161.29308,"(-84.36199, 161.29308)",AQ,Antarctica,Antarctica,,
+Grove Mountains 020179,46728,Valid,L5,1.29,Found,2003,-72.97917,75.26694,"(-72.97917, 75.26694)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 790452,25801,Valid,L6,82.15,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790038,25387,Valid,L4,3.79,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 054620,50647,Valid,L5,2.14,Found,2006,-72.99889,75.18722,"(-72.99889, 75.18722)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Allan Hills 84018,621,Valid,Aubrite,81.7,Found,1984,-76.86224,158.51818,"(-76.86224, 158.51818)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 94514,20146,Valid,L6,1.4,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 790684,26033,Valid,LL,2.47,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A78192,1805,Valid,H5,12.42,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 320,11803,Valid,H6,7823.0,Found,2001,28.970670000000002,12.206,"(28.97067, 12.206)",LY,Libya,Africa,Northern Africa,
+El Médano 162,57310,Valid,L4,147.0,Found,2011,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Frontier Mountain 99034,10827,Valid,H4,1.9,Found,1999,-72.98889,160.40306,"(-72.98889, 160.40306)",AQ,Antarctica,Antarctica,,
+Northwest Africa 254,17666,Valid,H6,247.0,Found,1999,29.91667,-5.58333,"(29.91667, -5.58333)",MA,Morocco,Africa,Northern Africa,
+Yamato 791502,26851,Valid,H3/4,131.02,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 880911,3620,Valid,H5,36.25,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Nyanga Lake 001,17966,Valid,H3,397.1,Found,1986,-29.78,126.45666999999999,"(-29.78, 126.45667)",AU,Australia,Oceania,Australia and New Zealand,
+Asuka 87097,2454,Valid,L6,16.82,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 1680,56186,Valid,H4,29.2,Found,2011,19.26465,54.49753000000001,"(19.26465, 54.49753)",OM,Oman,Asia,Western Asia,
+Allan Hills A81002,1962,Valid,CM2,14.0,Found,1981,-76.66011,159.32783,"(-76.66011, 159.32783)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99110,21562,Valid,LL5,7.5,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Superior Valley 020,31331,Valid,L6,307.75,Found,2003,35.23858,-117.02628,"(35.23858, -117.02628)",US,United States,Americas,Northern America,
+Grove Mountains 052685,46981,Valid,L5,12.02,Found,2006,-72.77889,75.31361,"(-72.77889, 75.31361)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Acfer 168,177,Valid,L6,211.0,Found,1990,27.6,3.983330000000002,"(27.6, 3.98333)",DZ,Algeria,Africa,Northern Africa,
+Adrar Chiriet,44703,Valid,L6,926.0,Found,2003,19.640079999999998,9.35545,"(19.64008, 9.35545)",NE,Niger,Africa,Sub-Saharan Africa,Western Africa
+Sappa,23175,Valid,L6,5950.0,Found,1983,39.84433,-100.51,"(39.84433, -100.51)",US,United States,Americas,Northern America,
+Queen Alexandra Range 97793,21248,Valid,LL5,12.2,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 021792,46802,Valid,L6,88.64,Found,2003,-72.77360999999998,75.3225,"(-72.77361, 75.3225)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Pecora Escarpment 82528,18291,Valid,L6,51.4,Found,1982,-85.67867,-68.72140999999999,"(-85.67867, -68.72141)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Acfer 109,118,Valid,H4/5,236.0,Found,1990,27.55,3.7666699999999995,"(27.55, 3.76667)",DZ,Algeria,Africa,Northern Africa,
+Dar al Gani 532,6080,Valid,L6,142.0,Found,1997,27.20017,16.3685,"(27.20017, 16.3685)",LY,Libya,Africa,Northern Africa,
+Yamato 75232,25273,Valid,L6,2.41,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Gnowangerup,10937,Valid,"Iron, IIIAB",33600.0,Found,1976,-34.0,118.1,"(-34.0, 118.1)",AU,Australia,Oceania,Australia and New Zealand,
+Lewis Cliff 88558,14299,Valid,L6,1.4,Found,1988,-84.24515,161.44419,"(-84.24515, 161.44419)",AQ,Antarctica,Antarctica,,
+Rancho Gomelia,22391,Valid,"Iron, IIIAB",15650.0,Found,1975,24.51667,-105.25,"(24.51667, -105.25)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
+Lewis Cliff 88109,13862,Valid,L5,19.8,Found,1988,-84.25248,161.38069,"(-84.25248, 161.38069)",AQ,Antarctica,Antarctica,,
+Acfer 314,322,Valid,H6,169.0,Found,1992,27.663890000000002,4.09806,"(27.66389, 4.09806)",DZ,Algeria,Africa,Northern Africa,
+Grove Mountains 052376,48308,Valid,L5,28.07,Found,2006,-72.781944,75.314722,"(-72.781944, 75.314722)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 99606,22052,Valid,L6,132.1,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Woodbine,24330,Valid,"Iron, IAB-ung",48200.0,Found,1953,42.34667,-90.1675,"(42.34667, -90.1675)",US,United States,Americas,Northern America,
+Asuka 881360,4069,Valid,H5,66.48,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 792868,28217,Valid,H4,13.01,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A78169,1782,Valid,H6,22.2,Found,1978,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Oakley (iron),17972,Valid,"Iron, IIIF",111000.0,Found,1926,42.33333,-113.7,"(42.33333, -113.7)",US,United States,Americas,Northern America,
+Allan Hills A77035,1349,Valid,L(?)3,1.67,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Patuxent Range 91551,18169,Valid,L6,5.8,Found,1991,-84.56833,-61.731230000000004,"(-84.56833, -61.73123)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Yamato 9408,30331,Valid,H4,6.99,Found,1994,-71.54694,35.40194,"(-71.54694, 35.40194)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lewis Cliff 86370,13301,Valid,H5,8.7,Found,1986,-84.27278000000003,161.41506,"(-84.27278, 161.41506)",AQ,Antarctica,Antarctica,,
+Lahmada 008,12421,Valid,L6,43.3,Found,1999,27.16667,-9.5,"(27.16667, -9.5)",DZ,Algeria,Africa,Northern Africa,
+Allan Hills A81305,2263,Valid,H5,1.1,Found,1981,-76.67676999999998,159.26753,"(-76.67677, 159.26753)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 90347,8756,Valid,L6,0.6,Found,1990,-76.26669,156.46041,"(-76.26669, 156.46041)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88746,14483,Valid,LL5,4.3,Found,1988,-84.28399,161.36486000000005,"(-84.28399, 161.36486)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88175,13928,Valid,L3.4,111.3,Found,1988,-84.23816,161.43873,"(-84.23816, 161.43873)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 221,35540,Valid,L5,4012.0,Found,2005,19.756429999999998,56.55205,"(19.75643, 56.55205)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 96189,9781,Valid,H5,31.0,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99330,21780,Valid,LL6,11.7,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Hammadah al Hamra 033,11516,Valid,H5,759.0,Found,1990,28.85,13.06667,"(28.85, 13.06667)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 052447,50421,Valid,L6,3.33,Found,2006,-72.77833000000003,75.31860999999998,"(-72.77833, 75.31861)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 99823,22268,Valid,LL5,42.0,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Grove Mountains 052429,50418,Valid,H5,5.11,Found,2006,-72.78278,75.3244,"(-72.78278, 75.3244)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 97465,20921,Valid,LL5,13.9,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Mundrabilla 018,16869,Valid,Howardite,24.0,Found,1990,-30.5,127.5,"(-30.5, 127.5)",AU,Australia,Oceania,Australia and New Zealand,
+Dar al Gani 176,5724,Valid,H4,158.0,Found,1996,27.12483,16.120829999999998,"(27.12483, 16.12083)",LY,Libya,Africa,Northern Africa,
+Mundrabilla 006,16857,Valid,H6,24.6,Found,1982,-30.008329999999997,127.70833,"(-30.00833, 127.70833)",AU,Australia,Oceania,Australia and New Zealand,
+Allan Hills 83035,555,Valid,H5,1.2,Found,1983,-76.82228,158.21366,"(-76.82228, 158.21366)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88712,14449,Valid,H6,22.9,Found,1988,-84.23055,161.55964,"(-84.23055, 161.55964)",AQ,Antarctica,Antarctica,,
+Sayh al Uhaymir 480,48645,Valid,H4,108.74600000000001,Found,2007,20.3953,56.58882,"(20.3953, 56.58882)",OM,Oman,Asia,Western Asia,
+Graves Nunataks 98153,11143,Valid,H4,35.1,Found,1998,-86.71667,-141.5,"(-86.71667, -141.5)",NZ,New Zealand,Oceania,Australia and New Zealand,
+Yamato 86045,29551,Valid,L6,2.59,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Mohawk,34059,Valid,"Iron, IAB complex",586.0,Found,2000,32.73,-113.71,"(32.73, -113.71)",US,United States,Americas,Northern America,
+Queen Alexandra Range 94258,19895,Valid,H5,1.7,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Junan,12210,Valid,L6,950.0,Fell,1976,35.2,118.8,"(35.2, 118.8)",CN,China,Asia,Eastern Asia,
+Shytal,23584,Valid,L6,3200.0,Fell,1863,24.33333,90.16667,"(24.33333, 90.16667)",BD,Bangladesh,Asia,Southern Asia,
+Grove Mountains 022204,46883,Valid,L6,13.98,Found,2003,-72.78083000000002,75.30221999999998,"(-72.78083, 75.30222)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Acfer 071,80,Valid,L6,1379.0,Found,1990,27.633329999999997,4.28333,"(27.63333, 4.28333)",DZ,Algeria,Africa,Northern Africa,
+Lewis Cliff 86374,13305,Valid,H5,31.7,Found,1986,-84.29669,161.31933999999995,"(-84.29669, 161.31934)",AQ,Antarctica,Antarctica,,
+Grove Mountains 052042,48262,Valid,L6,12.76,Found,2006,-72.977778,75.257778,"(-72.977778, 75.257778)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Elephant Moraine 96278,9869,Valid,H6,22.7,Found,1996,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Shişr 008,23546,Valid,L5,244.0,Found,2002,18.54167,53.99833,"(18.54167, 53.99833)",OM,Oman,Asia,Western Asia,
+El Médano 026,54489,Valid,L6,154.0,Found,2010,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Derrick Peak 88021,6672,Valid,"Iron, IIAB",662.0,Found,1988,-80.06667,156.38333,"(-80.06667, 156.38333)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 068,12130,Valid,H6,686.0,Found,2000,19.65377,55.80458,"(19.65377, 55.80458)",OM,Oman,Asia,Western Asia,
+Grove Mountains 021611,46774,Valid,H5,26.72,Found,2003,-72.77528000000002,75.32472,"(-72.77528, 75.32472)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 791069,26418,Valid,H5/6,114.46,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790871,26220,Valid,LL6,4.13,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 87255,2612,Valid,H6,20.53,Found,1987,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Lahmada 003,12416,Valid,L6,374.5,Found,1999,27.16667,-9.5,"(27.16667, -9.5)",DZ,Algeria,Africa,Northern Africa,
+Asuka 880711,3420,Valid,H3.7,59.58,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 791276,26625,Valid,H4/5,3.56,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pecora Escarpment 02046,18228,Valid,H5,25.47,Found,2002,-85.63333,-68.7,"(-85.63333, -68.7)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Yamato 790260,25609,Valid,Eucrite-pmict,433.9,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+MacAlpine Hills 02556,14861,Valid,E3,1.41,Found,2002,-84.21667,160.5,"(-84.21667, 160.5)",AQ,Antarctica,Antarctica,,
+El Médano 036,54504,Valid,H5,54.0,Found,2010,-24.85,-70.53333,"(-24.85, -70.53333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Acfer 114,123,Valid,CR2,43.0,Found,1990,27.6,3.9666699999999997,"(27.6, 3.96667)",DZ,Algeria,Africa,Northern Africa,
+Asuka 882047,4756,Valid,H5,15.82,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 1243,33935,Valid,LL4,2510.0,Found,2005,18.875860999999997,54.472611,"(18.875861, 54.472611)",OM,Oman,Asia,Western Asia,
+Kalumbi,12236,Valid,L6,4500.0,Fell,1879,17.83333,73.98333000000002,"(17.83333, 73.98333)",IN,India,Asia,Southern Asia,
+Maribo,48973,Valid,CM2,25.81,Fell,2009,54.76183,11.46745,"(54.76183, 11.46745)",DK,Denmark,Europe,Northern Europe,
+Yamato 790981,26330,Valid,Ureilite,213.01,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 626,7383,Valid,L6,332.0,Found,2001,19.11608,54.82283,"(19.11608, 54.82283)",OM,Oman,Asia,Western Asia,
+Grove Mountains 023133,50135,Valid,L5,0.64,Found,2003,-72.77417,75.32056,"(-72.77417, 75.32056)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+San Juan 065,57304,Valid,H4,459.0,Found,2010,-25.58333,-69.78333,"(-25.58333, -69.78333)",CL,Chile,Americas,Latin America and the Caribbean,South America
+Yamato 790550,25899,Valid,LL,15.89,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 82091,29285,Valid,Howardite,108.35,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 86180,29686,Valid,H4,0.41,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 99421,9964,Valid,H5,65.7,Found,1999,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Meteorite Hills 00888,16122,Valid,L5,21.66,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 99264,21715,Valid,L5,10.9,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Lewis Cliff 88192,13945,Valid,L5,39.2,Found,1988,-84.28251999999998,161.38731,"(-84.28252, 161.38731)",AQ,Antarctica,Antarctica,,
+Aioun el Atrouss,423,Valid,Diogenite-pm,1000.0,Fell,1974,16.39806,-9.57028,"(16.39806, -9.57028)",MR,Mauritania,Africa,Sub-Saharan Africa,Western Africa
+Yamato 74443,24821,Valid,H5,6.03,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Dhofar 050,6749,Valid,L5,300.0,Found,1999,19.176,54.87683000000001,"(19.176, 54.87683)",OM,Oman,Asia,Western Asia,
+Allan Hills 83023,543,Valid,L4,4.2,Found,1983,-76.82248,158.20557,"(-76.82248, 158.20557)",AQ,Antarctica,Antarctica,,
+Yamato 791245,26594,Valid,H4/5,7.54,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790474,25823,Valid,H5,11.86,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Pecora Escarpment 91300,18591,Valid,EH3,4.5,Found,1991,-85.67451,-68.02475,"(-85.67451, -68.02475)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Lewis Cliff 85359,12829,Valid,H6,17.5,Found,1985,-84.26491999999998,161.49933000000001,"(-84.26492, 161.49933)",AQ,Antarctica,Antarctica,,
+Roach Dry Lake 021,32763,Valid,H6,59.2,Found,2001,35.67297999999999,-115.36717,"(35.67298, -115.36717)",US,United States,Americas,Northern America,
+Pecora Escarpment 91426,18717,Valid,H5,7.8,Found,1991,-85.69376,-69.09772,"(-85.69376, -69.09772)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Yamato 8002,29049,Valid,Lodranite,2.27,Found,1980,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Bherai,5039,Valid,L6,100.0,Fell,1893,20.83333,71.46667,"(20.83333, 71.46667)",IN,India,Asia,Southern Asia,
+Erofeevka,10048,Valid,H4,1771.9,Found,1937,51.86667,70.35,"(51.86667, 70.35)",KZ,Kazakhstan,Asia,Central Asia,
+Dhofar 1671,56105,Valid,CV3,40.8,Found,2011,18.86958,54.22956,"(18.86958, 54.22956)",OM,Oman,Asia,Western Asia,
+Pecora Escarpment 91017,18308,Valid,L6,1420.5,Found,1991,-85.68836,-68.34063,"(-85.68836, -68.34063)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Frontier Mountain 01158,10340,Valid,H5/6,0.6,Found,2001,-72.98944,160.40222,"(-72.98944, 160.40222)",AQ,Antarctica,Antarctica,,
+Kamioka,12239,Valid,H4,30.0,Found,1921,39.51667,140.36667,"(39.51667, 140.36667)",JP,Japan,Asia,Eastern Asia,
+Grove Mountains 053168,46989,Valid,H5,3.38,Found,2006,-72.77472,75.34,"(-72.77472, 75.34)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Queen Alexandra Range 94585,20216,Valid,H6,1.3,Found,1994,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Yamato 74063,24441,Valid,Acapulcoite,35.41,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Meteorite Hills 00550,15785,Valid,LL6,104.52,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Kikino,12306,Valid,H6,195.0,Fell,1809,55.0,34.0,"(55.0, 34.0)",RU,Russia,Europe,Eastern Europe,
+Yamato 790599,25948,Valid,LL,8.22,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Frontier Mountain 99013,10806,Valid,H4,10.7,Found,1999,-72.995,160.4,"(-72.995, 160.4)",AQ,Antarctica,Antarctica,,
+Yamato 86369,29875,Valid,H4,4.75,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills A77255,1566,Valid,"Iron, ungrouped",765.1,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Al Huqf 012,445,Valid,L6,402.75,Found,2003,19.80252,57.321369999999995,"(19.80252, 57.32137)",OM,Oman,Asia,Western Asia,
+Asuka 881361,4070,Valid,H4,50.67,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Roach Dry Lake 031,22622,Valid,H6,36.2,Found,2002,35.6701,-115.37248000000001,"(35.6701, -115.37248)",US,United States,Americas,Northern America,
+Hammadah al Hamra 211,11694,Valid,H5,63.0,Found,1997,28.478170000000002,13.2565,"(28.47817, 13.2565)",LY,Libya,Africa,Northern Africa,
+Lewis Cliff 87122,13592,Valid,L6,2.1,Found,1987,-84.25328,161.42077,"(-84.25328, 161.42077)",AQ,Antarctica,Antarctica,,
+Yamato 791059,26408,Valid,H6,12.3,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 82114,29308,Valid,L6,0.14,Found,1982,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grosvenor Mountains 95597,11325,Valid,L6,76.9,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Elephant Moraine 92125,9527,Valid,L6,0.8,Found,1992,-76.04164,156.27296,"(-76.04164, 156.27296)",AQ,Antarctica,Antarctica,,
+Yamato 86096,29602,Valid,H4,6.29,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790819,26168,Valid,LL6,8.8,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Queen Alexandra Range 99453,21899,Valid,L5,282.1,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Dar al Gani 793,6340,Valid,LL6,109.0,Found,2000,27.46367,16.1465,"(27.46367, 16.1465)",LY,Libya,Africa,Northern Africa,
+Yamato 791479,26828,Valid,H4/5,1.39,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 74053,24431,Valid,H4,88.48,Found,1974,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 793328,28677,Valid,H4,3.44,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grosvenor Mountains 95620,11348,Valid,L5,161.3,Found,1995,-85.66667,175.0,"(-85.66667, 175.0)",AQ,Antarctica,Antarctica,,
+Yamato 790022,25371,Valid,Diogenite,1.66,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Hammadah al Hamra 215,11698,Valid,L5,88.0,Found,1997,28.51333,13.005,"(28.51333, 13.005)",LY,Libya,Africa,Northern Africa,
+Grove Mountains 023262,48098,Valid,H4,1.36,Found,2003,-72.773611,75.320278,"(-72.773611, 75.320278)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Asuka 881857,4566,Valid,LL5,1182.89,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Yamato 790749,26098,Valid,H4,1714.8,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Grove Mountains 022460,46910,Valid,L5,14.7,Found,2003,-72.77389000000002,75.32694000000002,"(-72.77389, 75.32694)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Pecora Escarpment 91409,18700,Valid,L6,2.7,Found,1991,-85.69865,-68.82044,"(-85.69865, -68.82044)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Grove Mountains 020004,46615,Valid,H4,2.24,Found,2002,-73.09806,75.17833,"(-73.09806, 75.17833)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Yamato 86431,29937,Valid,H4,1.53,Found,1986,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Asuka 881424,4133,Valid,H5,17.71,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90197,8606,Valid,L6,24.4,Found,1990,-76.28223,156.49249,"(-76.28223, 156.49249)",AQ,Antarctica,Antarctica,,
+Grove Mountains 021504,46545,Valid,L6,17.81,Found,2003,-72.94861,75.265,"(-72.94861, 75.265)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Dalgety Downs,5507,Valid,L4,257000.0,Found,1941,-25.33333,116.18333,"(-25.33333, 116.18333)",AU,Australia,Oceania,Australia and New Zealand,
+Elephant Moraine 87544,8094,Valid,LL4,1499.4,Found,1987,-76.18333,157.16666999999995,"(-76.18333, 157.16667)",AQ,Antarctica,Antarctica,,
+Dhofar 1509,53798,Valid,H~4,48.7,Found,2009,18.623720000000002,54.28791999999999,"(18.62372, 54.28792)",OM,Oman,Asia,Western Asia,
+Elephant Moraine 87729,8279,Valid,L6,1.4,Found,1987,-76.0429,156.09617,"(-76.0429, 156.09617)",AQ,Antarctica,Antarctica,,
+Dar al Gani 172,5720,Valid,H6,138.0,Found,1996,27.101999999999997,16.02017,"(27.102, 16.02017)",LY,Libya,Africa,Northern Africa,
+Watson 009,52654,Valid,H5,1.0,Found,2009,-30.5,131.68333,"(-30.5, 131.68333)",AU,Australia,Oceania,Australia and New Zealand,
+Yamato 790133,25482,Valid,H6,60.01,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Allan Hills 83015,535,Valid,Aubrite,3.1,Found,1983,-76.82221,158.21305,"(-76.82221, 158.21305)",AQ,Antarctica,Antarctica,,
+Ash Creek,48954,Valid,L6,9500.0,Fell,2009,31.805,-97.01,"(31.805, -97.01)",US,United States,Americas,Northern America,
+Yamato 791607,26956,Valid,H5,55.63,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+Elephant Moraine 90827,9236,Valid,L6,4.0,Found,1990,-76.28738,156.44134,"(-76.28738, 156.44134)",AQ,Antarctica,Antarctica,,
+Daraj 012,6551,Valid,H4,250.0,Found,1986,29.465559999999996,11.43333,"(29.46556, 11.43333)",LY,Libya,Africa,Northern Africa,
+Roosevelt County 071,22726,Valid,L4,5.3,Found,1989,34.1,-103.48333000000001,"(34.1, -103.48333)",US,United States,Americas,Northern America,
+Meteorite Hills 00666,15900,Valid,L5,15.03,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,,
+Asuka 881363,4072,Valid,L4,105.42,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
+LaPaz Icefield 02423,12690,Valid,LL5,6.23,Found,2002,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Pecora Escarpment 91139,18430,Valid,H5,2.7,Found,1991,-85.67645999999998,-69.0354,"(-85.67646, -69.0354)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Grove Mountains 022144,49950,Valid,L6,8.6,Found,2003,-72.77889,75.31361,"(-72.77889, 75.31361)",TF,French Southern Territories,Africa,Sub-Saharan Africa,Eastern Africa
+Pecora Escarpment 82509,18272,Valid,L6,285.6,Found,1982,-85.67402,-68.1909,"(-85.67402, -68.1909)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Allan Hills A77100,1413,Valid,H5,18.2,Found,1977,-76.71667,159.66666999999995,"(-76.71667, 159.66667)",AQ,Antarctica,Antarctica,,
+Laguna Manantiales,12413,Valid,Iron,92000.0,Found,1945,-48.58333,-67.41667,"(-48.58333, -67.41667)",AR,Argentina,Americas,Latin America and the Caribbean,South America
+Elephant Moraine 90248,8657,Valid,CO3,0.4,Found,1990,-76.29429,156.45913000000004,"(-76.29429, 156.45913)",AQ,Antarctica,Antarctica,,
+Queen Alexandra Range 93459,19547,Valid,H5,3.2,Found,1993,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Jiddat al Harasis 697,56249,Valid,L6,93.6,Found,2011,19.06683,55.553419999999996,"(19.06683, 55.55342)",OM,Oman,Asia,Western Asia,
+Roosevelt County 083,22738,Valid,H5,14.8,Found,1969,33.66667,-103.41667,"(33.66667, -103.41667)",US,United States,Americas,Northern America,
+Dhofar 622,7379,Valid,H4-an,60.0,Found,2001,19.227870000000006,54.853680000000004,"(19.22787, 54.85368)",OM,Oman,Asia,Western Asia,
+Queen Alexandra Range 97787,21242,Valid,LL5,4.4,Found,1997,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,,
+Asuka 881540,4249,Valid,H4,15.45,Found,1988,-72.0,26.0,"(-72.0, 26.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
