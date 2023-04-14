@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/cameronkenny101/infovis/main/meteorites_clean_small.csv"
+   },
+   "title": {
+     "text": "Meteorite Explorer",
+     "anchor": "middle",
+     "fontSize": 22
+  },
+  "hconcat": [
+    {
+      "width":1200,
+      "height":600,
+			"layer": [
+				{
+					"data": {
+						"url": "data/world-110m.json",
+						"format": {
+							"type": "topojson",
+							"feature": "countries"
+						}
+					},
+					"projection": {
+						"type": "equalEarth"
+					},
+					"mark": {
+						"type": "geoshape",
+						"stroke": "white",
+						"fill":"#ccc"
+					}
+				},
+				{
+					"params": [
+						{
+							"name": "regions",
+							"select": {"type": "point", "fields": ["sub-region"]},
+							"bind": "legend"
+						}
+					],
+					"transform": [
+						{
+							"filter": {
+								"param": "rock_class"
+							}
+						}
+					],
+					"mark": "circle",
+					"encoding": {
+						"longitude": {
+							"field": "long",
+							"type": "quantitative"
+						},
+						"latitude": {
+							"field": "lat",
+							"type": "quantitative"
+						},
+						"color": {
+							"condition": {
+								"param": "regions",
+								"field": "sub-region"
+							},
+							"value":"lightgrey"
+						},
+						"opacity": {
+							"condition": {
+								"param": "regions",
+								"value": 1
+							},
+							"value":0
+						}
+					}
+			 	}
+			]
+    },
+	{
+		"width": 500,
+		"height": 500,
+  		"mark": {"type": "arc", "tooltip": true},
+		"params": [
+			{
+				"name": "rock_class",
+				"select": {"type": "point", "fields": ["class"]}
+			}
+		],
+		"transform": [
+						{
+							"filter": {
+								"param": "regions"
+							}
+						}
+					],
+  		"encoding": {
+    		"theta": {"field": "class", "aggregate": "count", "type": "quantitative"},
+			"order": {"field": "class", "aggregate": "count", "sort": "descending"},
+    		"color": {
+				"condition": {
+					"param": "rock_class",
+					"field": "class"
+				},
+				"value":"lightgrey"
+			}
+  		}
+	}
+  ],
+  "resolve": {"scale": {"color": "independent"}} 
+}
