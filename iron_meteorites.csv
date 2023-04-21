@@ -68,7 +68,6 @@ Arltunga,2334,Valid,"Iron, IID-an",18100.0,Found,1908,-23.33333,134.666669999999
 Armanty,2335,Valid,"Iron, IIIE",28000000.0,Found,1898,47.0,88.0,"(47.0, 88.0)",CN,China,Asia,Eastern Asia,
 ar-Rakhbah,2338,Valid,Iron,462.0,Found,1955,20.6,52.5,"(20.6, 52.5)",YE,Yemen,Asia,Western Asia,
 Asheville,2347,Valid,"Iron, IIIAB",800.0,Found,1839,35.58333,-82.53333,"(35.58333, -82.53333)",US,United States,Americas,Northern America,
-Assamakka,53892,Valid,"Iron, IVA-an",4400.0,Found,2002,19.26667,5.91667,"(19.26667, 5.91667)",NE,Niger,Africa,Sub-Saharan Africa,Western Africa
 Aswan,4882,Valid,"Iron, IAB-ung",12000.0,Found,1955,23.98611,32.62361,"(23.98611, 32.62361)",EG,Egypt,Africa,Northern Africa,
 Augusta County,4897,Valid,"Iron, IIIAB",76000.0,Found,1858,38.16667,-79.08333,"(38.16667, -79.08333)",US,United States,Americas,Northern America,
 Augustinovka,4898,Valid,"Iron, IIIAB",400000.0,Found,1890,48.06667,35.08333,"(48.06667, 35.08333)",UA,Ukraine,Europe,Eastern Europe,
@@ -95,7 +94,6 @@ Billings,5047,Valid,"Iron, IIIAB",24500.0,Found,1903,37.06667,-93.55,"(37.06667,
 Bischtübe,5057,Valid,"Iron, IAB-sLL",48250.0,Found,1888,51.95,62.2,"(51.95, 62.2)",KZ,Kazakhstan,Asia,Central Asia,
 Bishop Canyon,5058,Valid,"Iron, IVA",8600.0,Found,1912,38.0,-108.5,"(38.0, -108.5)",US,United States,Americas,Northern America,
 Bitburg,5062,Valid,"Iron, IAB complex",1500000.0,Found,1805,49.96667,6.53333,"(49.96667, 6.53333)",DE,Germany,Europe,Western Europe,
-Blanca Estela,45973,Valid,"Iron, IAB complex",15600.0,Found,2002,-25.0,-69.5,"(-25.0, -69.5)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Blue Tier,5077,Valid,Iron,1400.0,Found,1890,-41.18333,148.03333,"(-41.18333, 148.03333)",AU,Australia,Oceania,Australia and New Zealand,
 Bluewater,5078,Valid,"Iron, IIIAB",9540.0,Found,1946,35.26667,-107.96667,"(35.26667, -107.96667)",US,United States,Americas,Northern America,
 Bocaiuva,5092,Valid,"Iron, ungrouped",64000.0,Found,1965,-17.16667,-43.83333,"(-17.16667, -43.83333)",BR,Brazil,Americas,Latin America and the Caribbean,South America
@@ -110,11 +108,9 @@ Bristol,5143,Valid,"Iron, IVA",20000.0,Found,1937,36.56667,-82.18333,"(36.56667,
 Britstown,5144,Valid,"Iron, IAB-ung",544.0,Found,1910,-30.58333,23.55,"(-30.58333, 23.55)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
 Brownfield (iron),5154,Valid,"Iron, IID",1626.0,Found,1960,33.21667,-102.18333,"(33.21667, -102.18333)",US,United States,Americas,Northern America,
 Buenaventura,5162,Valid,"Iron, IIIAB",113600.0,Found,1969,29.8,-107.55,"(29.8, -107.55)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
-Buffalo Gap,51831,Valid,"Iron, IAB-ung",9300.0,Found,2003,32.246109999999994,-99.99306,"(32.24611, -99.99306)",US,United States,Americas,Northern America,
 Bur-Abor,5166,Valid,"Iron, IIIAB",290000.0,Found,1997,3.983330000000002,41.65,"(3.98333, 41.65)",KE,Kenya,Africa,Sub-Saharan Africa,Eastern Africa
 Burkhala,5171,Valid,"Iron, IAB-ung",1825.0,Found,1983,63.8,149.0,"(63.8, 149.0)",RU,Russia,Europe,Eastern Europe,
 Burlington,5172,Valid,"Iron, IIIE",68000.0,Found,1819,42.75,-75.18333,"(42.75, -75.18333)",US,United States,Americas,Northern America,
-Burns,57342,Valid,"Iron, IIIAB",18400.0,Found,2003,39.86667,-106.88333,"(39.86667, -106.88333)",US,United States,Americas,Northern America,
 Burstall,45985,Valid,"Iron, IAB complex",360.0,Found,1992,50.65,-109.9,"(50.65, -109.9)",CA,Canada,Americas,Northern America,
 Bushman Land,5179,Valid,"Iron, IVA",3000.0,Found,1933,-30.0,20.0,"(-30.0, 20.0)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
 Butler,5182,Valid,"Iron, ungrouped",41000.0,Found,1874,38.3,-94.36667,"(38.3, -94.36667)",US,United States,Americas,Northern America,
@@ -138,7 +134,6 @@ Chambord,5318,Valid,"Iron, IIIAB",6600.0,Found,1904,48.45,-72.06667,"(48.45, -72
 Chañaral,5319,Valid,"Iron, IIIAB",1207.0,Found,1884,-26.5,-70.25,"(-26.5, -70.25)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Charcas,5326,Valid,"Iron, IIIAB",1400000.0,Found,1804,23.08333,-101.01666999999999,"(23.08333, -101.01667)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
 Chebankol,5335,Valid,"Iron, IAB-sHL",127760.0,Found,1938,53.666669999999996,88.0,"(53.66667, 88.0)",RU,Russia,Europe,Eastern Europe,
-Cheder,5336,Valid,"Iron, IID",5390.0,Found,2003,51.53333,94.6,"(51.53333, 94.6)",RU,Russia,Europe,Eastern Europe,
 Chilkoot,5351,Valid,"Iron, IIIAB",43000.0,Found,1881,59.333330000000004,-136.0,"(59.33333, -136.0)",US,United States,Americas,Northern America,
 Chinautla,5352,Valid,"Iron, IVA-an",5720.0,Found,1902,14.5,-90.5,"(14.5, -90.5)",GT,Guatemala,Americas,Latin America and the Caribbean,Central America
 Chinga,5353,Valid,"Iron, ungrouped",209400.0,Found,1913,51.05833,94.4,"(51.05833, 94.4)",RU,Russia,Europe,Eastern Europe,
@@ -179,10 +174,8 @@ Denver City,6661,Valid,"Iron, ungrouped",26100.0,Found,1975,33.07139,-102.80028,
 Deport,6662,Valid,"Iron, IAB-sLL",15000.0,Found,1926,33.51667,-95.3,"(33.51667, -95.3)",US,United States,Americas,Northern America,
 Dermbach,6665,Valid,"Iron, ungrouped",1500.0,Found,1924,50.71667,10.11667,"(50.71667, 10.11667)",DE,Germany,Europe,Western Europe,
 Dexter,6697,Valid,"Iron, IIIAB",1724.0,Found,1889,33.81667,-97.0,"(33.81667, -97.0)",US,United States,Americas,Northern America,
-Digor,49716,Valid,"Iron, IIIAB",3800.0,Found,2006,42.33333,89.33333,"(42.33333, 89.33333)",CN,China,Asia,Eastern Asia,
 Dimitrovgrad,7644,Valid,"Iron, IIIAB",100000.0,Found,1949,43.04639,22.863889999999998,"(43.04639, 22.86389)",RS,Serbia,Europe,Southern Europe,
 Djebel In-Azzene,7655,Valid,"Iron, IIIAB",12500.0,Found,1990,27.86667000000001,0.45,"(27.86667, 0.45)",DZ,Algeria,Africa,Northern Africa,
-Dolores,7660,Valid,"Iron, IIIAB",4333.0,Found,2001,-19.65,-69.95,"(-19.65, -69.95)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Dor el Gani,7711,Valid,"Iron, IIIAB",2575.0,Found,1972,26.95833,16.03333,"(26.95833, 16.03333)",LY,Libya,Africa,Northern Africa,
 Dorrigo,7720,Valid,"Iron, ungrouped",8500.0,Found,1948,-30.28333,152.66666999999995,"(-30.28333, 152.66667)",AU,Australia,Oceania,Australia and New Zealand,
 Dronino,7732,Valid,"Iron, ungrouped",40000.0,Found,2000,54.746669999999995,41.42167,"(54.74667, 41.42167)",RU,Russia,Europe,Eastern Europe,
@@ -225,7 +218,6 @@ Franceville,10173,Valid,"Iron, IIIAB",18800.0,Found,1890,38.81667,-104.61667,"(3
 Frankfort (iron),10176,Valid,"Iron, IIIAB",10900.0,Found,1866,38.2,-84.83333,"(38.2, -84.83333)",US,United States,Americas,Northern America,
 Fukue,10835,Valid,Iron,7.3,Found,1849,32.7,128.85,"(32.7, 128.85)",JP,Japan,Asia,Eastern Asia,
 Gan Gan,10852,Valid,"Iron, IVA",83000.0,Found,1984,-42.66667,-68.08333,"(-42.66667, -68.08333)",AR,Argentina,Americas,Latin America and the Caribbean,South America
-Gebel Kamil,52031,Valid,"Iron, ungrouped",1600000.0,Found,2009,22.01833,26.08778,"(22.01833, 26.08778)",LY,Libya,Africa,Northern Africa,
 Gibeon,10912,Valid,"Iron, IVA",26000000.0,Found,1836,-25.5,18.0,"(-25.5, 18.0)",,Namibia,Africa,Sub-Saharan Africa,
 Glasgow,10927,Valid,"Iron, IIIAB",20400.0,Found,1922,37.01667,-85.91667,"(37.01667, -85.91667)",US,United States,Americas,Northern America,
 Glen Rose (iron),10932,Valid,"Iron, ungrouped",11000.0,Found,1934,32.25,-97.71667,"(32.25, -97.71667)",US,United States,Americas,Northern America,
@@ -263,7 +255,6 @@ Hidden Valley,11882,Valid,"Iron, IIIAB",7000.0,Found,1991,-19.116670000000006,14
 Hill City,11886,Valid,"Iron, IVA",11700.0,Found,1947,39.36667,-99.85,"(39.36667, -99.85)",US,United States,Americas,Northern America,
 Holliday,11897,Valid,Iron,12.0,Found,1950,33.75,-98.83333,"(33.75, -98.83333)",US,United States,Americas,Northern America,
 Hopper,11907,Valid,"Iron, IIIAB",1800.0,Found,1889,36.55,-79.78333,"(36.55, -79.78333)",US,United States,Americas,Northern America,
-Horh Uul,11909,Valid,"Iron, IIIAB",44000.0,Found,2001,43.25,104.16667,"(43.25, 104.16667)",MN,Mongolia,Asia,Eastern Asia,
 Horse Creek,11910,Valid,"Iron, ungrouped",570.0,Found,1937,37.58333,-102.76666999999999,"(37.58333, -102.76667)",US,United States,Americas,Northern America,
 Hot Springs,11912,Valid,"Iron, IIIAB",4700.0,Found,1995,39.66667,-118.96667,"(39.66667, -118.96667)",US,United States,Americas,Northern America,
 Huizopa,11985,Valid,"Iron, IVA",140000.0,Found,1907,28.9,-108.56667,"(28.9, -108.56667)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
@@ -278,7 +269,6 @@ Itutinga,12059,Valid,"Iron, IIIAB",3200.0,Found,1960,-21.33333,-44.66667,"(-21.3
 Ivanpah,12062,Valid,"Iron, IIIAB",58000.0,Found,1880,35.33333,-115.31667,"(35.33333, -115.31667)",US,United States,Americas,Northern America,
 Jackson County,12066,Valid,"Iron, IIIAB",450.0,Found,1846,36.41667,-85.5,"(36.41667, -85.5)",US,United States,Americas,Northern America,
 Jamestown,12071,Valid,"Iron, IVA",4000.0,Found,1885,46.61667,-98.5,"(46.61667, -98.5)",US,United States,Americas,Northern America,
-Javorje,53489,Valid,"Iron, IIIAB",4920.0,Found,2009,46.162440000000004,14.19166,"(46.16244, 14.19166)",SI,Slovenia,Europe,Southern Europe,
 Joe Wright Mountain,12174,Valid,"Iron, IIIAB",42600.0,Found,1884,35.76667,-91.5,"(35.76667, -91.5)",US,United States,Americas,Northern America,
 Joel's Iron,12175,Valid,"Iron, IIIAB",1300.0,Found,1858,-24.0,-69.0,"(-24.0, -69.0)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Jonesboro,12201,Valid,"Iron, IVA",30.0,Found,1891,36.3,-82.46667,"(36.3, -82.46667)",US,United States,Americas,Northern America,
@@ -308,10 +298,6 @@ Laguna Manantiales,12413,Valid,Iron,92000.0,Found,1945,-48.58333,-67.41667,"(-48
 Lancaster County,12454,Valid,Iron,13000.0,Found,1903,40.66667,-96.75,"(40.66667, -96.75)",US,United States,Americas,Northern America,
 Landor,12458,Valid,Iron,9000.0,Found,1931,-25.66667,117.0,"(-25.66667, 117.0)",AU,Australia,Oceania,Australia and New Zealand,
 Lanton,12463,Valid,"Iron, IIIAB",13780.0,Found,1932,36.53333,-91.8,"(36.53333, -91.8)",US,United States,Americas,Northern America,
-LaPaz Icefield 03593,12713,Valid,Iron,657.5,Found,2003,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
-LaPaz Icefield 03605,12714,Valid,Iron,582.8,Found,2003,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
-LaPaz Icefield 03631,12717,Valid,Iron,164.9,Found,2003,-86.36667,-70.0,"(-86.36667, -70.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
-Las Cruces,55759,Valid,"Iron, IIIAB",528.0,Found,2001,-23.38316,-70.58605,"(-23.38316, -70.58605)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Las Salinas,12734,Valid,"Iron, IIIAB",3515.0,Found,1905,-23.0,-69.5,"(-23.0, -69.5)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Lasher Creek,12735,Valid,Iron,639.5,Found,1948,42.83333,-74.5,"(42.83333, -74.5)",US,United States,Americas,Northern America,
 Laurens County,12741,Valid,"Iron, ungrouped",2150.0,Found,1857,34.5,-82.03333,"(34.5, -82.03333)",US,United States,Americas,Northern America,
@@ -335,7 +321,6 @@ Livingston (Montana),14668,Valid,"Iron, IIIAB",1600.0,Found,1936,45.6,-110.58333
 Livingston (Tennessee),14669,Valid,"Iron, IAB-ung",235.0,Found,1937,36.41667,-85.25,"(36.41667, -85.25)",US,United States,Americas,Northern America,
 Llano River,53635,Valid,"Iron, IIIAB",4318.0,Found,1975,30.522129999999997,-99.73698,"(30.52213, -99.73698)",US,United States,Americas,Northern America,
 Lonaconing,14680,Valid,"Iron, IAB-sHL",1400.0,Found,1888,39.41667,-79.15,"(39.41667, -79.15)",US,United States,Americas,Northern America,
-Lone Island Lake,55762,Valid,"Iron, IAB-sLL",4800.0,Found,2005,50.009570000000004,-95.38537,"(50.00957, -95.38537)",CA,Canada,Americas,Northern America,
 Longtian,14696,Valid,"Iron, IIIAB",350000.0,Found,1991,27.35,108.5,"(27.35, 108.5)",CN,China,Asia,Eastern Asia,
 Loreto,14705,Valid,"Iron, IIIAB",94800.0,Found,1896,26.01667,-111.36667,"(26.01667, -111.36667)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
 Los Reyes,14709,Valid,"Iron, IIIAB",19500.0,Found,1897,19.26667,-97.28333,"(19.26667, -97.28333)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
@@ -396,14 +381,9 @@ Meteorite Hills 00834,16068,Valid,"Iron, IIIAB",7.05,Found,2000,-79.68333,155.75
 Meteorite Hills 00859,16093,Valid,"Iron, IIIAB",33.9,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,Antarctica,
 Meteorite Hills 00864,16098,Valid,"Iron, IIIAB",38.03,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,Antarctica,
 Meteorite Hills 00905,16139,Valid,"Iron, IIIAB",3.53,Found,2000,-79.68333,155.75,"(-79.68333, 155.75)",AQ,Antarctica,Antarctica,Antarctica,
-Meteorite Hills 01088,16321,Valid,"Iron, IIIAB",5.8,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,Antarctica,
-Meteorite Hills 01089,16322,Valid,"Iron, IIIAB",4.1,Found,2001,-79.68333,159.75,"(-79.68333, 159.75)",AQ,Antarctica,Antarctica,Antarctica,
 Midland,16633,Valid,Iron,34.0,Found,1960,44.75,-79.88333,"(44.75, -79.88333)",CA,Canada,Americas,Northern America,
 Miles,16641,Valid,"Iron, IIE",265000.0,Found,1992,-27.83333,150.33333000000005,"(-27.83333, 150.33333)",AU,Australia,Oceania,Australia and New Zealand,
 Millarville,16642,Valid,"Iron, IVA",15636.0,Found,1977,50.79722,-114.30944,"(50.79722, -114.30944)",CA,Canada,Americas,Northern America,
-Miller Butte 03002,16649,Valid,"Iron, IID",82.7,Found,2003,-72.69358000000003,160.26831,"(-72.69358, 160.26831)",AQ,Antarctica,Antarctica,Antarctica,
-Miller Range 03356,16652,Valid,"Iron, IVA",443.5,Found,2003,-83.25,157.0,"(-83.25, 157.0)",AQ,Antarctica,Antarctica,Antarctica,
-Miller Range 03369,16654,Valid,"Iron, IAB complex",119.96,Found,2003,-83.25,157.0,"(-83.25, 157.0)",AQ,Antarctica,Antarctica,Antarctica,
 Milly Milly,16688,Valid,"Iron, IIIAB",26500.0,Found,1921,-26.11667000000001,116.66667,"(-26.11667, 116.66667)",AU,Australia,Oceania,Australia and New Zealand,
 Misteca,16705,Valid,"Iron, ungrouped",10000.0,Found,1804,16.8,-97.1,"(16.8, -97.1)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
 Moctezuma,16710,Valid,"Iron, IAB-sLL",1700.0,Found,1889,29.8,-109.66667,"(29.8, -109.66667)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
@@ -425,7 +405,6 @@ Nagy-Vázsony,16894,Valid,"Iron, IAB-sLL",2000.0,Found,1890,46.98333,17.7,"(46.9
 Naifa,16895,Valid,Iron,8.0,Found,1932,19.933329999999998,51.21667,"(19.93333, 51.21667)",YE,Yemen,Asia,Western Asia,
 Narraburra,16915,Valid,"Iron, IIIAB",32200.0,Found,1855,-34.25,147.7,"(-34.25, 147.7)",AU,Australia,Oceania,Australia and New Zealand,
 Nashville (iron),16920,Valid,Iron,18000.0,Found,1934,35.96667,-77.96667,"(35.96667, -77.96667)",US,United States,Americas,Northern America,
-Naviska,48657,Valid,"Iron, IAB complex",147.0,Found,2004,32.5,-111.28,"(32.5, -111.28)",US,United States,Americas,Northern America,
 Nazareth (iron),16933,Valid,"Iron, IIIAB",11310.0,Found,1968,34.52667,-102.105,"(34.52667, -102.105)",US,United States,Americas,Northern America,
 Needles,16936,Valid,"Iron, IID",45300.0,Found,1962,34.44417,-114.8325,"(34.44417, -114.8325)",US,United States,Americas,Northern America,
 Neptune Mountains,16944,Valid,"Iron, IAB complex",1070.0,Found,1964,-83.25,-55.0,"(-83.25, -55.0)",AR,Argentina,Americas,Latin America and the Caribbean,South America
@@ -441,7 +420,6 @@ Norin-Shibir,16995,Valid,"Iron, ungrouped",3.5,Found,1900,51.85,107.91667,"(51.8
 Norquín,16996,Valid,"Iron, IIIAB",19250.0,Found,1945,-37.71667,-70.61667,"(-37.71667, -70.61667)",AR,Argentina,Americas,Latin America and the Caribbean,South America
 Norristown,16997,Valid,"Iron, IIIAB",4200.0,Found,1965,32.51667,-82.55,"(32.51667, -82.55)",US,United States,Americas,Northern America,
 Northampton,17009,Valid,Iron,353.0,Found,1963,42.31667,-72.63333,"(42.31667, -72.63333)",US,United States,Americas,Northern America,
-Northwest Africa 6903,53891,Valid,"Iron, IIIAB",50000.0,Found,2008,32.37167,-6.36,"(32.37167, -6.36)",MA,Morocco,Africa,Northern Africa,
 Nova Petropolis,17928,Valid,"Iron, IIIAB",305000.0,Found,1967,-29.433329999999998,-50.91667,"(-29.43333, -50.91667)",BR,Brazil,Americas,Latin America and the Caribbean,South America
 Novorybinskoe,17931,Valid,"Iron, IVA",3055.0,Found,1937,51.88333,71.25,"(51.88333, 71.25)",KZ,Kazakhstan,Asia,Central Asia,
 Nuleri,17939,Valid,"Iron, IIIAB",120.0,Found,1902,-27.83333,123.86667,"(-27.83333, 123.86667)",AU,Australia,Oceania,Australia and New Zealand,
@@ -477,14 +455,11 @@ Piñon,18828,Valid,"Iron, ungrouped",17850.0,Found,1928,32.66667,-105.1,"(32.666
 Plymouth,18850,Valid,"Iron, IIIAB",14000.0,Found,1893,41.33333,-86.31667,"(41.33333, -86.31667)",US,United States,Americas,Northern America,
 Point of Rocks (iron),18855,Valid,"Iron, IIIAB",18000.0,Found,1956,36.5,-104.5,"(36.5, -104.5)",US,United States,Americas,Northern America,
 Poison Spring,18857,Valid,Iron,524.0,Found,1971,38.17,-110.36667,"(38.17, -110.36667)",US,United States,Americas,Northern America,
-Porto Alegre,52091,Valid,"Iron, IIIE",200000.0,Found,2005,-30.03306,-51.23,"(-30.03306, -51.23)",BR,Brazil,Americas,Latin America and the Caribbean,South America
-Prospector Pool,47700,Valid,"Iron, ungrouped",2768.0,Found,2003,-29.35,121.76666999999999,"(-29.35, 121.76667)",AU,Australia,Oceania,Australia and New Zealand,
 Providence,18893,Valid,"Iron, IIIAB",6804.0,Found,1903,38.56667,-85.23333000000002,"(38.56667, -85.23333)",US,United States,Americas,Northern America,
 Puente del Zacate,18894,Valid,"Iron, IIIAB",30790.0,Found,1904,27.86667000000001,-101.5,"(27.86667, -101.5)",MX,Mexico,Americas,Latin America and the Caribbean,Central America
 Puerta de Arauco,18896,Valid,Iron,1533.0,Found,1904,-28.883329999999997,-66.66667,"(-28.88333, -66.66667)",AR,Argentina,Americas,Latin America and the Caribbean,South America
 Puquios,18903,Valid,"Iron, IID",6580.0,Found,1885,-27.15,-69.91667,"(-27.15, -69.91667)",CL,Chile,Americas,Latin America and the Caribbean,South America
 Putnam County,18906,Valid,"Iron, IVA",32700.0,Found,1839,33.25,-83.25,"(33.25, -83.25)",US,United States,Americas,Northern America,
-Qijiaojing,54610,Valid,"Iron, ungrouped",160000.0,Found,2003,43.75,92.91667,"(43.75, 92.91667)",CN,China,Asia,Eastern Asia,
 Quarat al Hanish,18909,Valid,"Iron, IAB-sHL",593.0,Found,1979,25.15,25.58333,"(25.15, 25.58333)",LY,Libya,Africa,Northern Africa,
 Quartz Mountain,18910,Valid,"Iron, IIIAB",4832.0,Found,1935,37.2,-116.7,"(37.2, -116.7)",US,United States,Americas,Northern America,
 Queen Alexandra Range 99001,21454,Valid,Iron,22000.0,Found,1999,-84.0,168.0,"(-84.0, 168.0)",AQ,Antarctica,Antarctica,Antarctica,
@@ -537,7 +512,6 @@ Serrania de Varas,23503,Valid,"Iron, IVA",1500.0,Found,1875,-24.55,-69.06667,"(-
 Shangdu,23523,Valid,"Iron, IIIAB",247000.0,Found,1957,42.5,114.0,"(42.5, 114.0)",CN,China,Asia,Eastern Asia,
 Shingle Springs,23535,Valid,"Iron, ungrouped",39000.0,Found,1869,38.66667,-120.93333,"(38.66667, -120.93333)",US,United States,Americas,Northern America,
 Shirahagi,23536,Valid,"Iron, IVA",22700.0,Found,1890,36.7,137.36667,"(36.7, 137.36667)",JP,Japan,Asia,Eastern Asia,
-Shişr 043,23578,Valid,"Iron, IIIAB",8267.0,Found,2003,18.59243,53.81247,"(18.59243, 53.81247)",YE,Yemen,Asia,Western Asia,
 Shohaku,23580,Valid,Iron,101.0,Found,1938,40.31667,126.91667,"(40.31667, 126.91667)",KP,South Korea,Asia,Eastern Asia,
 Shrewsbury,23581,Valid,"Iron, IAB-sLL",12000.0,Found,1907,39.76667,-76.66667,"(39.76667, -76.66667)",US,United States,Americas,Northern America,
 Sierra Sandon,23591,Valid,"Iron, IIIAB",6330.0,Found,1923,-25.16667,-69.28333,"(-25.16667, -69.28333)",CL,Chile,Americas,Latin America and the Caribbean,South America
@@ -595,11 +569,9 @@ Ventura,24159,Valid,"Iron, IAB-ung",7700.0,Found,1953,34.25,-119.3,"(34.25, -119
 Verissimo,24163,Valid,"Iron, IIIAB",14000.0,Found,1965,-19.73333,-48.31667,"(-19.73333, -48.31667)",BR,Brazil,Americas,Latin America and the Caribbean,South America
 Verkhne Dnieprovsk,24164,Valid,"Iron, IIE",70.0,Found,1876,48.63333,34.36667,"(48.63333, 34.36667)",UA,Ukraine,Europe,Eastern Europe,
 Verkhne Udinsk,24166,Valid,"Iron, IIIAB",18000.0,Found,1854,54.76667,113.98333000000001,"(54.76667, 113.98333)",RU,Russia,Europe,Eastern Europe,
-Verkhnyi Saltov,31352,Valid,"Iron, IIIAB",9530.0,Found,2001,50.11112,36.8001,"(50.11112, 36.8001)",UA,Ukraine,Europe,Eastern Europe,
 Vicenice,24170,Valid,"Iron, IID",4370.0,Found,1911,49.21667,15.8,"(49.21667, 15.8)",CZ,Czech Republic,Europe,Eastern Europe,
 Victoria West,24171,Valid,"Iron, IAB-sHL",2950.0,Found,1860,-31.7,23.75,"(-31.7, 23.75)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
 View Hill,24173,Valid,"Iron, IIIAB",33600.0,Found,1952,-43.32,172.06333,"(-43.32, 172.06333)",NZ,New Zealand,Oceania,Australia and New Zealand,
-Vitoria da Conquista,48953,Valid,"Iron, IVA",10500.0,Found,2007,-14.838610000000001,-40.83611,"(-14.83861, -40.83611)",BR,Brazil,Americas,Latin America and the Caribbean,South America
 Wabar,24194,Valid,"Iron, IIIAB",2550000.0,Found,1863,21.49972,50.47222,"(21.49972, 50.47222)",AE,United Arab Emirates,Asia,Western Asia,
 Waingaromia,24198,Valid,"Iron, IIIAB",9200.0,Found,1915,-38.25,178.08333000000005,"(-38.25, 178.08333)",NZ,New Zealand,Oceania,Australia and New Zealand,
 Waldron Ridge,24203,Valid,"Iron, IAB complex",13600.0,Found,1887,36.63333,-83.83333,"(36.63333, -83.83333)",US,United States,Americas,Northern America,
@@ -610,7 +582,6 @@ Waterville,24219,Valid,"Iron, IAB-ung",37125.0,Found,1917,47.767778,-119.8763889
 Watson 001,24221,Valid,"Iron, IIE",93000.0,Found,1972,-30.5,131.55,"(-30.5, 131.55)",AU,Australia,Oceania,Australia and New Zealand,
 Welland,24235,Valid,"Iron, IIIAB",8200.0,Found,1888,43.01667,-79.21667,"(43.01667, -79.21667)",CA,Canada,Americas,Northern America,
 Western Arkansas,24248,Valid,"Iron, IVA",1750.0,Found,1890,35.0,-94.0,"(35.0, -94.0)",US,United States,Americas,Northern America,
-Whitecourt,47345,Valid,"Iron, IIIAB",5372.0,Found,2007,53.99916700000001,-115.5975,"(53.999167, -115.5975)",CA,Canada,Americas,Northern America,
 Willamette,24269,Valid,"Iron, IIIAB",15500000.0,Found,1902,45.36667,-122.58333,"(45.36667, -122.58333)",US,United States,Americas,Northern America,
 Williston,24275,Valid,"Iron, IIIAB",7645.0,Found,1962,47.98333,-103.65,"(47.98333, -103.65)",US,United States,Americas,Northern America,
 Willow Creek,24276,Valid,"Iron, IIIE",51000.0,Found,1914,43.46667,-106.76666999999999,"(43.46667, -106.76667)",US,United States,Americas,Northern America,
@@ -623,7 +594,6 @@ Woodbine,24330,Valid,"Iron, IAB-ung",48200.0,Found,1953,42.34667,-90.1675,"(42.3
 Wood's Mountain,24332,Valid,"Iron, IVA",3867.0,Found,1918,35.68333,-82.18333,"(35.68333, -82.18333)",US,United States,Americas,Northern America,
 Wooster,24336,Valid,"Iron, IAB-sLL",22700.0,Found,1858,40.76667,-81.95,"(40.76667, -81.95)",US,United States,Americas,Northern America,
 Wu-chu-mu-ch'in,24341,Valid,"Iron, IAB-ung",68860.0,Found,1920,45.5,118.0,"(45.5, 118.0)",CN,China,Asia,Eastern Asia,
-Xifu,54608,Valid,"Iron, IAB complex",3000000.0,Found,2004,36.3,120.48333000000001,"(36.3, 120.48333)",CN,China,Asia,Eastern Asia,
 Yamato 75031,25072,Valid,"Iron, ungrouped",60.2,Found,1975,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
 Yamato 790132,25481,Valid,Iron,4.54,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa
 Yamato 790517,25866,Valid,"Iron, ungrouped",189.58,Found,1979,-71.5,35.66667,"(-71.5, 35.66667)",ZA,South Africa,Africa,Sub-Saharan Africa,Southern Africa

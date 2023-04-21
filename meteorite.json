@@ -1,0 +1,223 @@
+{
+"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+"data": {
+  "url": "https://raw.githubusercontent.com/cameronkenny101/infovis/main/iron_meteorites.csv"
+ },
+ "title": {
+   "text": "Meteorite Explorer",
+   "anchor": "middle",
+   "fontSize": 22
+},
+ "vconcat": [
+   {
+"hconcat": [
+  {
+    "width":1200,
+    "height":600,
+          "layer": [
+              {
+                  "data": {
+                      "url": "data/world-110m.json",
+                      "format": {
+                          "type": "topojson",
+                          "feature": "countries"
+                      }
+                  },
+                  "projection": {
+                      "type": "equalEarth"
+                  },
+                  "mark": {
+                      "type": "geoshape",
+                      "stroke": "white",
+                      "fill":"#ccc"
+                  }
+              },
+              {
+                  "params": [
+                      {
+                          "name": "regions",
+                          "select": {"type": "point", "fields": ["sub-region"]},
+                          "bind": "legend"
+                      }
+                  ],
+                  "transform": [
+                      {
+                          "filter": {
+                              "param": "rock_class"
+                          }
+                      },
+                      {
+                        "filter": {
+                          "param": "brush_mass"
+                        }
+                      },
+                      {
+                        "filter": {
+                          "param": "brush_count"
+                        }
+                      }
+                  ],
+                  "mark": "circle",
+                  "encoding": {
+                      "longitude": {
+                          "field": "long",
+                          "type": "quantitative"
+                      },
+                      "latitude": {
+                          "field": "lat",
+                          "type": "quantitative"
+                      },
+                      "color": {
+                          "condition": {
+                              "param": "regions",
+                              "field": "sub-region"
+                          },
+                          "value":"lightgrey"
+                      },
+                      "opacity": {
+                          "condition": {
+                              "param": "regions",
+                              "value": 1
+                          },
+                          "value":0
+                      }
+                  }
+              }
+          ]
+  },
+  {
+      "width": 500,
+      "height": 500,
+      "mark": {"type": "arc", "tooltip": true},
+      "params": [
+          {
+              "name": "rock_class",
+              "select": {"type": "point", "fields": ["class"]}
+          }
+      ],
+      "transform": [
+                      {
+                          "filter": {
+                              "param": "regions"
+                          }
+                      },
+                      {
+                        "filter": {
+                          "param": "brush_mass"
+                        }
+                      },
+                      {
+                        "filter": {
+                          "param": "brush_count"
+                        }
+                      }
+                  ],
+      "encoding": {
+          "theta": {"field": "class", "aggregate": "count", "type": "quantitative"},
+          "order": {"field": "class", "aggregate": "count", "sort": "descending"},
+          "color": {
+              "condition": {
+                  "param": "rock_class",
+                  "field": "class"
+              },
+              "value":"lightgrey"
+          }
+      }
+  }
+],
+"resolve": {"scale": {"color": "independent"}}
+   },
+   {
+"hconcat" : [
+    {
+      "height": 300,
+      "width": 900,
+      "mark": "bar",
+      "params": [
+        {
+          "name": "brush_mass",
+          "select": {
+            "type": "interval"
+          }
+        }
+      ],
+      "transform": [
+        {
+          "filter": {
+            "param": "regions"
+          }
+        },
+        {
+          "filter": {
+            "param": "rock_class"
+          }
+        }
+      ],
+      "encoding": {
+        "opacity": {
+          "condition": {
+            "param": "brush_mass",
+            "value": 1
+          },
+          "value": 0.2
+        },
+        "x": {
+          "field": "year",
+          "type": "temporal",
+          "timeUnit": {
+            "unit": "year",
+            "step": 10
+          }
+        },
+        "y": {
+          "aggregate": "sum",
+          "field": "mass"
+        },
+        "color": {
+          "value": "orange"
+        }
+      }
+    },
+    {
+      "height": 300,
+      "width": 900,
+      "mark": "point",
+      "params": [
+        {
+          "name": "brush_count",
+          "select": {
+            "type": "interval"
+          }
+        }
+      ],
+      "encoding": {
+        "opacity": {
+          "condition": {
+            "param": "brush_count",
+            "value": 1
+          },
+          "value": 0
+        },
+        "x": {
+          "field": "year",
+          "type": "temporal",
+          "timeUnit": {
+            "unit": "year",
+            "step": 10
+          }
+        },
+        "y": {
+          "aggregate": "count",
+          "field": "year",
+          "type": "quantitative"
+        },
+        "color": {
+          "value": "blue"
+        }
+      }
+    }
+  ]
+   }
+ ]
+}
+
